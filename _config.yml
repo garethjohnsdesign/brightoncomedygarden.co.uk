@@ -1,0 +1,63 @@
+---
+title: Brighton Comedy Garden 2019
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: false
+url: https://www.brightoncomedygarden.co.uk
+description: Brighton Comedy Garden launches this summer for a series of unmissable shows!
+permalink: pretty
+exclude:
+- bower.json
+- Gemfile.lock
+- package.json
+- config.codekit3
+- README*
+- LICENSE*
+- CHANGELOG*
+- node_modules
+- ".gitignore"
+- bower_components
+- assets/scss
+plugins:
+- jekyll-paginate-v2
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+- jekyll/imgix
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+company: 57 Festivals Ltd
+event-span: "19 - 23 June 2019"
+event-address: Preston Park Brighton BN1 6SD
+company-registration: 06840256
+company-address: 237 Westcombe Hill, Blackheath, London, United Kingdom, SE3 7DW
+email: info@brightoncomedygarden.co.uk
+analytics:
+logo: "/assets/img/logo.svg"
+per_page: 12
+date_format: "%b %d, %Y"
+future: true
+social:
+  facebook: https://www.facebook.com/brightoncomedygarden
+  instagram: https://www.instagram.com/brightoncomedygarden
+  twitter: https://twitter.com/brightoncomedygarden
+compress_html:
+  comments:
+  - "<!-- "
+  - " -->"
+  blanklines: true
+  profile: false
+pagination:
+  enabled: false
+autopages:
+  enabled: false
+imgix:
+  source: brighton-comedy-garden.imgix.net
