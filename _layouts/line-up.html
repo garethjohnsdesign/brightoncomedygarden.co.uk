@@ -24,10 +24,10 @@ layout: default
         {% for day in site.line-up %}
           {% for act in day.acts %}
           <div class="cell acts">
-<a href="{{ day.url }}">
+            <a href="{{ day.url }}">
             {% assign image = act.image %}
             {% include blocks/excerpt.html %}
-</a>
+            </a>
           </div>
           {% endfor %}
         {% endfor %}
