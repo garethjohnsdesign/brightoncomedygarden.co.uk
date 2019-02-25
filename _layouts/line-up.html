@@ -42,9 +42,11 @@ layout: default
       {% assign sorted = day.items | sort: 'date' %}
       {% for day in sorted %}
         {% for act in day.acts %}
-        <div class="cell">
+        <div class="cell acts">
+          <a href="{{ day.url }}">
           {% assign image = act.image %}
           {% include blocks/excerpt.html %}
+          </a>
         </div>
         {% endfor %}
       {% endfor %}
