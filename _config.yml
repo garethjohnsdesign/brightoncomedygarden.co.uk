@@ -1,7 +1,10 @@
 ---
-title: Brighton Comedy Garden 2019
+title: Brighton Comedy Garden
 timezone: UTC
 collections:
+  line-up:
+    title: Line-up
+    output: true
   posts:
     title: Posts
     output: true
@@ -36,7 +39,7 @@ kramdown:
 highlighter: rouge
 company: 57 Festivals Ltd
 event-span: "19 - 23 June 2019"
-event-address: Preston Park Brighton BN1 6SD
+event-address: Preston Park, Brighton BN1 6SD
 company-registration: 06840256
 company-address: 237 Westcombe Hill, Blackheath, London, United Kingdom, SE3 7DW
 email: info@brightoncomedygarden.co.uk
@@ -46,10 +49,13 @@ logo: "/assets/img/logo.svg"
 per_page: 12
 date_format: "%b %d, %Y"
 future: true
+sponsors:
+  57-festivals: http://www.57festivals.com
+  see-tickets: https://www.seetickets.com
 social:
-  facebook: https://www.facebook.com/brightoncomedygarden
+  facebook: https://www.facebook.com/brightoncomedygarden/
   instagram: https://www.instagram.com/brightoncomedygarden/
-  twitter: https://twitter.com/brightoncomedygarden
+  twitter: https://twitter.com/brightoncomedygarden/
 compress_html:
   comments:
   - "<!-- "
