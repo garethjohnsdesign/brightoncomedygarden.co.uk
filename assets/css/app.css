@@ -9055,6 +9055,14 @@ Single-colored icons can be modified like so:
 .icon-sort {
   font-size: 3rem; }
 
+.icon-inline-logo {
+  width: 10.4599609375em;
+  font-size: 2.5rem; }
+
+.icon-logo {
+  width: 1.306640625em;
+  font-size: 3.5rem; }
+
 a {
   transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
 
