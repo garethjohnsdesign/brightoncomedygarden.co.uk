@@ -1,13 +1,29 @@
+<div class="grid-x grid-padding-y grid-padding-x padding-vertical-2">
+  <div class="small-12 cell">
+    <ul class="menu align-center">
+      <li><a href="{{site.social.facebook}}" target="_blank"><svg class="icon icon-socials icon-facebook"><use xlink:href="/assets/icons/symbol-defs.svg#icon-facebook"></use></svg></a></li>
+      <li><a href="{{site.social.instagram}}" target="_blank"><svg class="icon icon-socials icon-instagram"><use xlink:href="/assets/icons/symbol-defs.svg#icon-instagram"></use></svg></a></li>
+      <li><a href="{{site.social.twitter}}" target="_blank"><svg class="icon icon-socials icon-twitter"><use xlink:href="/assets/icons/symbol-defs.svg#icon-twitter"></use></svg></a></li>
+    </ul>
+  </div>
+</div>
+
 <footer class="primary-background-colour">
 
   <div class="grid-x grid-padding-y">
-    <div class="small-12 cell text-center padding-vertical-3">
-      <h5><a href="/tickets">{{site.event-address}}</a></h5>
-      <h5><a href="mailto:{{site.email}}">{{site.email}}</a></h5>
+    <div class="small-12 cell text-center">
+      <h5><a href="/tickets">{{site.event-address}} — {{site.event-span}}</a></h5>
+<!--       <h5><a href="mailto:{{site.email}}">{{site.email}}</a></h5> -->
+      <ul class="menu align-center">
+      {% for item in site.sponsors %}  
+        <li><a href="{{ item[1] }}" target="_blank" rel="noopener"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-sponsors icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
+      {% endfor %} 
+      </ul>
     </div>
   </div>
 
-  <div class="grid-x">
+<!--
+  <div class="grid-x grid-padding-y">
     <div class="small-12 shrink cell">
       <ul class="menu align-center">
       {% for item in site.sponsors %}  
@@ -16,6 +32,7 @@
       </ul>
     </div>
   </div>
+-->
   
   <div class="grid-x grid-padding-x align-center">
     <div class="small-12 medium-7 large-5 cell">
@@ -31,16 +48,6 @@
       </div>
       
       </form>
-    </div>
-  </div>
-  
-  <div class="grid-x grid-padding-y grid-padding-x">
-    <div class="small-12 cell">
-      <ul class="menu align-center">
-        <li><a href="{{site.social.facebook}}" target="_blank"><svg class="icon icon-socials icon-facebook"><use xlink:href="/assets/icons/symbol-defs.svg#icon-facebook"></use></svg></a></li>
-        <li><a href="{{site.social.instagram}}" target="_blank"><svg class="icon icon-socials icon-instagram"><use xlink:href="/assets/icons/symbol-defs.svg#icon-instagram"></use></svg></a></li>
-        <li><a href="{{site.social.twitter}}" target="_blank"><svg class="icon icon-socials icon-twitter"><use xlink:href="/assets/icons/symbol-defs.svg#icon-twitter"></use></svg></a></li>
-      </ul>
     </div>
   </div>
   

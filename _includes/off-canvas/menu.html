@@ -1,6 +1,6 @@
 {% for entry in site.data.navigation.header %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
 <!-- Navigation -->
-<div class="grid-y align-center" style="height: 100%;">
+<div class="grid-y align-center primary-background-colour" style="height: 100%;">
   
   <div class="shrink cell">
     <ul class="menu vertical align-center text-lowercase">

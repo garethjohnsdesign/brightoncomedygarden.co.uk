@@ -146,7 +146,7 @@ html.is-animating .swup-transition-color {
 // -------------
 
 .underline {
-  border-bottom: 1px solid $white;
+  border-bottom: 4px solid;
 }
 
 i, cite, em, var, address, dfn {
@@ -196,13 +196,16 @@ main {
   @include aspect-ratio (16, 9);
   background-size: cover; 
   background-position: 50%;
+ .content {
+  background-color: rgba($black, 0.05);
+  }
 }
 
 .swiper-button-prev-test,
 .swiper-button-next-test {
   position: absolute;
   top: 0;
-  width: auto;
+  width: 50%;
   height: 100%;
   z-index: 10;
   &:hover {
@@ -220,12 +223,22 @@ main {
   z-index: 1000;
 }
 
+.swiper-button-prev-test {
+cursor: url('/assets/img/arrow-left.png') 16 16, auto !important;
+cursor: -webkit-image-set(
+url('/assets/img/arrow-left.png') 1x,
+url('/assets/img/arrow-left@2x.png') 2x,
+url('/assets/img/arrow-left@3x.png') 3x
+) 16 16, auto !important;
+}
 
-.off-canvas {
-  color: $white;
-  a {
-    color: $white;
-  }
+.swiper-button-next-test {
+cursor: url('/assets/img/arrow-right.png') 16 16, auto !important;
+cursor: -webkit-image-set(
+url('/assets/img/arrow-right.png') 1x,
+url('/assets/img/arrow-right@2x.png') 2x,
+url('/assets/img/arrow-right@3x.png') 3x
+) 16 16, auto !important;
 }
 
 .acts {
@@ -238,6 +251,7 @@ main {
 // -------------
 
 .navigation {
+  @include padding(2, 2, 2, 2);
   .cell {
 	z-index: 14; 
   }
@@ -263,5 +277,10 @@ main {
   top: 0;
   left: 0;
   width: 100%;
-  @include links ($white, $black);
+  @include links ($white, $primary-color);
+}
+
+.off-canvas .menu .active > a {
+background: transparent;
+color: $black;
 }

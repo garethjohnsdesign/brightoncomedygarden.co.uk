@@ -5,8 +5,13 @@ layout: default
 <!-- Headliners - Desktop -->
 <div class="swiper-container show-for-large">
 
-  <div class="swiper-button-prev-test flex-container align-center-middle primary-color margin-left-1"><svg class="icon icon-arrow icon-arrow_back"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow_back"></use></svg></div>
-  <div class="swiper-button-next-test flex-container align-center-middle primary-color margin-right-1"><svg class="icon icon-arrow icon-arrow_forward"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow_forward"></use></svg></div>
+<!--
+  <div class="swiper-button-prev-test flex-container align-middle primary-color margin-left-1"><svg class="icon icon-arrow icon-arrow_back"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow_back"></use></svg></div>
+  <div class="swiper-button-next-test flex-container align-middle align-right primary-color margin-right-1"><svg class="icon icon-arrow icon-arrow_forward"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow_forward"></use></svg></div>
+-->
+
+  <div class="swiper-button-prev-test flex-container align-middle primary-color margin-left-1"></div>
+  <div class="swiper-button-next-test flex-container align-middle align-right primary-color margin-right-1"></div>
 
   <div class="swiper-wrapper">
     {% for act in page.carousel %}
@@ -50,7 +55,7 @@ layout: default
 <!-- Descriptions -->
 <div class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
-    <div class="small-12 cell text-center padding-vertical-3">
+    <div class="small-12 medium-10 cell text-center padding-vertical-3">
       <h3 class="text-lowercase">A scintillating array of UK’s finest comedy, street food, craft beers and cocktails neatly placed in the grounds of Brighton’s Preston Park... Oh, and a whole load of entertainment too!
     </div>
   </div>
@@ -74,7 +79,7 @@ layout: default
 <!-- Line-up Link -->
 <div class="grid-x grid-padding-y align-center">
   <div class="small-12 cell text-center padding-vertical-3">
-    <a href="/line-up/" class="h2 text-lowercase">View Full Line-up <svg class="icon icon-arrow_forward"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow_forward"></use></svg></a>
+    <a href="/line-up/" class="h3 text-lowercase underline">View Full Line-up</a>
   </div>
 </div>
 <!-- End Line-up Link -->
