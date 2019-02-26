@@ -337,7 +337,10 @@ $button-sizes: (
   default: 0.9rem,
   large: 1.25rem,
 );
-$button-palette: $foundation-palette;
+// $button-palette: $foundation-palette;
+$button-palette: map-merge($foundation-palette, (
+    white: $white
+)) !default;
 $button-opacity-disabled: 0.25;
 $button-background-hover-lightness: -20%;
 $button-hollow-hover-lightness: -50%;
@@ -453,7 +456,7 @@ $flexbox-responsive-breakpoints: true;
 // ---------
 
 // $fieldset-border: 1px solid $medium-gray;
-$fieldset-border: 1px solid get-color(primary);
+$fieldset-border: 1px solid $white;
 $fieldset-padding: rem-calc(20);
 $fieldset-margin: rem-calc(18 0);
 $legend-padding: rem-calc(0 3);
@@ -474,7 +477,7 @@ $select-triangle-color: $dark-gray;
 $select-radius: $global-radius;
 $input-color: $black;
 // $input-placeholder-color: $medium-gray;
-$input-placeholder-color: get-color(primary);
+$input-placeholder-color: $white;
 $input-font-family: inherit;
 $input-font-size: rem-calc(16);
 $input-font-weight: $global-weight-normal;
@@ -484,7 +487,7 @@ $input-background: transparent;
 $input-background-focus: $white;
 $input-background-disabled: $light-gray;
 // $input-border: 1px solid $medium-gray;
-$input-border: 1px solid get-color(primary);
+$input-border: 1px solid $white;
 $input-border-focus: 1px solid $dark-gray;
 $input-padding: $form-spacing / 2;
 // $input-shadow: inset 0 1px 2px rgba($black, 0.1);
