@@ -20,7 +20,7 @@ setTimeout(
   function() 
   {
     //do something special
-$("#cookiesPolicy").foundation("open")
+$("#cookiesPolicy").foundation("open");
   }, 2000);
 
 //     $("#cookiesPolicy").foundation("open");
@@ -61,6 +61,9 @@ $(function() {
       centeredSlides: true,
       initialSlide: firstSlide,
       loop: true,
+      autoplay: {
+        delay: 4000,
+      },
       preventClicks: true,
       slideToClickedSlide: false,
 
@@ -75,7 +78,7 @@ $(function() {
     }
 
    
-    })
+    });
   });
 
   });

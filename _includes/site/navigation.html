@@ -1,14 +1,14 @@
 {% for entry in site.data.navigation.header %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
 
 
-<div class="grid-x align-justify align-middle navigation"> 
+<div class="grid-x align-justify align-middle navigation" style="z-index: 10010"> 
 
-    <div class="small-3 cell">  
-      <a data-toggle="offCanvas" style="z-index: 1001"><svg class="icon icon-sort"><use xlink:href="/assets/icons/symbol-defs.svg#icon-sort"></use></svg></a>
+    <div class="small-3 cell" style="z-index: 10010">  
+      <a data-toggle="offCanvas" style="z-index: 10010"><svg class="icon icon-sort" style="z-index: 10010"><use xlink:href="/assets/icons/symbol-defs.svg#icon-sort"></use></svg></a>
     </div>
 
     <div class="small-6 cell text-center">   
-      <a data-toggle="offCanvas" style="z-index: 1001">
+      <a data-toggle="offCanvas" style="z-index: 10010">
       <div class="show-for-medium"><svg class="icon icon-inline-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-inline-logo"></use></svg></div>
       <div class="show-for-small-only"><svg class="icon icon-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo"></use></svg></div>
       <div>{{site.event-span}}<span class="show-for-medium"> — {{site.event-address-short}}</span></div>

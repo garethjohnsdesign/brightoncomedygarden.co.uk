@@ -7,8 +7,7 @@ layout: default
 <!-- Date -->
 <div class="grid-x grid-padding-y align-center event__title">
   <div class="small-12 cell text-center">
-    <h2 class="text-lowercase">{{ page.date | date: "%A %-d %b" }}</h2>
-    <h4 class="primary-color">{{ page.date | date: "%l:%M%p" }}</h4>
+    <div class=" h3 text-lowercase">{{ page.date | date: "%A %-d %b" }}<span class="primary-color"> — </span>{{ page.date | date: "%l:%M%p" }}</div>
     {% if page.is-sold-out == true %}<h4>Sold Out</h4>{% endif %}
   </div>
 </div>

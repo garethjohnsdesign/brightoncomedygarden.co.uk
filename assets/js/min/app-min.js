@@ -7998,6 +7998,6 @@ $.cookie("showed_modal","true",{expires:365}))}),
 $(function(){AOS.init({offset:64,easing:"ease-in-out-quart",duration:600})}),$(function(){window.addEventListener("load",AOS.refresh)}),
 // 2. Carousel
 // -----------
-$(function(){var e=Math.floor(5*Math.random()),t=new Swiper(".swiper-container",{direction:"horizontal",slidesPerView:"auto",centeredSlides:!0,initialSlide:e,loop:!0,preventClicks:!0,slideToClickedSlide:!1,keyboard:{enabled:!0,onlyInViewport:!1},navigation:{nextEl:".swiper-button-next-test",prevEl:".swiper-button-prev-test"}});
+$(function(){var e=Math.floor(5*Math.random()),t=new Swiper(".swiper-container",{direction:"horizontal",slidesPerView:"auto",centeredSlides:!0,initialSlide:e,loop:!0,autoplay:{delay:4e3},preventClicks:!0,slideToClickedSlide:!1,keyboard:{enabled:!0,onlyInViewport:!1},navigation:{nextEl:".swiper-button-next-test",prevEl:".swiper-button-prev-test"}});
 //initialize swiper when document ready
 })});
