@@ -233,3 +233,35 @@ main {
   background-color: rgba($primary-color, 0.75);
  }
 }
+
+// 6. Navigation
+// -------------
+
+.navigation {
+  .cell {
+	z-index: 14; 
+  }
+  @include links ($black, $primary-color)
+  a {
+    font-family: $sans-bold;
+  }
+}
+
+.hamburger-inner {
+  &,
+  &::before,
+  &::after {
+    background-color: $white;
+  }
+}
+
+// 9. Home
+// -------
+
+.home .navigation {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  @include links ($white, $black);
+}

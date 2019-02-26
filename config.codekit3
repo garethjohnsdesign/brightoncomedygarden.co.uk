@@ -1060,18 +1060,18 @@
 		"oAP": "/assets/fonts/light-pro.woff2",
 		"oF": 0
 		},
-	"/assets/fonts/marrsans-regular.woff": {
+	"/assets/fonts/MarrSans-Regular.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/assets/fonts/marrsans-regular.woff",
+		"oAP": "/assets/fonts/MarrSans-Regular.woff",
 		"oF": 0
 		},
-	"/assets/fonts/marrsans-regular.woff2": {
+	"/assets/fonts/MarrSans-Regular.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/assets/fonts/marrsans-regular.woff2",
+		"oAP": "/assets/fonts/MarrSans-Regular.woff2",
 		"oF": 0
 		},
 	"/assets/fonts/regular-pro.ttf": {

@@ -18,11 +18,6 @@ carousel:
   subheader: 
   is-sold-out: true
   line-up: Sunday Early
-- name: James Acaster
-  image: "/uploads/james-acaster.jpg"
-  subheader: One of comedy’s most original voices - Evening Standard
-  is-sold-out: true
-  line-up: Thursday
 - name: Milton Jones
   image: "/uploads/milton-jones.jpg"
   subheader: Pun-derful Jones leaves the audience gagging for more — Metro

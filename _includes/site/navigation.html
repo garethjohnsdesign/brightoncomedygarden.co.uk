@@ -1,16 +1,16 @@
 {% for entry in site.data.navigation.header %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
 
 
-<div class="grid-x grid-padding-x grid-padding-y align-justify align-middle primary-background-colour"> 
+<div class="grid-x grid-padding-x grid-padding-y align-justify align-middle navigation"> 
 
     <div class="shrink cell">    
       <ul class="menu simple align-middle">
-        <li><a href="/" class="h3 sans-bold text-lowercase">{{site.title}}</a></li>
+        <li><a href="/" class="h2 sans-bold text-lowercase">{{site.title}}</a></li>
         <li class="hide-for-small-only"><a href="/">{{site.event-span}}</a></li>
       </ul>
     </div>
 
-    <div class="shrink cell show-for-xxlarge">    
+    <div class="shrink cell show-for-xlarge">    
       <ul class="menu align-middle">
           {% for entry in site.data.navigation.header %}
           {% if entry.url == current_page %}
@@ -20,13 +20,15 @@
           {% endif %}
           <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
           {% endfor %}
-          <li class="show-for-xlarge"><a href="{{site.social.facebook}}" target="_blank"><svg class="icon icon-socials icon-facebook"><use xlink:href="/assets/icons/symbol-defs.svg#icon-facebook"></use></svg></a></li>
-          <li class="show-for-xlarge"><a href="{{site.social.instagram}}" target="_blank"><svg class="icon icon-socials icon-instagram"><use xlink:href="/assets/icons/symbol-defs.svg#icon-instagram"></use></svg></a></li>
-          <li class="show-for-xlarge"><a href="{{site.social.twitter}}" target="_blank"><svg class="icon icon-socials icon-twitter"><use xlink:href="/assets/icons/symbol-defs.svg#icon-twitter"></use></svg></a></li>
+<!--
+          <li class="show-for-xxlarge"><a href="{{site.social.facebook}}" target="_blank"><svg class="icon icon-socials icon-facebook"><use xlink:href="/assets/icons/symbol-defs.svg#icon-facebook"></use></svg></a></li>
+          <li class="show-for-xxlarge"><a href="{{site.social.instagram}}" target="_blank"><svg class="icon icon-socials icon-instagram"><use xlink:href="/assets/icons/symbol-defs.svg#icon-instagram"></use></svg></a></li>
+          <li class="show-for-xxlarge"><a href="{{site.social.twitter}}" target="_blank"><svg class="icon icon-socials icon-twitter"><use xlink:href="/assets/icons/symbol-defs.svg#icon-twitter"></use></svg></a></li>
+-->
       </ul>
     </div>
     
-    <div class="shrink cell hide-for-xxlarge">  
+    <div class="shrink cell hide-for-xlarge">  
       <a data-toggle="offCanvas" style="z-index: 1001"><svg class="icon icon-sort"><use xlink:href="/assets/icons/symbol-defs.svg#icon-sort"></use></svg></a>
     </div>
 
