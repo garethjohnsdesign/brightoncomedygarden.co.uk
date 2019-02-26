@@ -156,6 +156,13 @@
 		"oAP": "/_layouts/event.html",
 		"oF": 0
 		},
+	"/_layouts/food-and-drink.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_layouts/food-and-drink.html",
+		"oF": 0
+		},
 	"/_layouts/home.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -10300,6 +10307,31 @@
 		"oA": 2,
 		"oAP": "/bower_components/what-input/yarn.lock",
 		"oF": 0
+		},
+	"/food-and-drink.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/food-and-drink.html",
+		"oF": 0
+		},
+	"/food-and-drink.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "/food-and-drink.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"/Gemfile": {
 		"cB": 0,

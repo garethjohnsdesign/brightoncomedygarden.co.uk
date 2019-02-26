@@ -117,9 +117,7 @@ html.is-animating .swup-transition-color {
 .primary-background-colour {
   background-color: get-color(primary);
   color: $white;
-  a {
-    color: $white;
-  }
+  @include links($white, $black)
 }
 
 
@@ -135,17 +133,13 @@ html.is-animating .swup-transition-color {
 }
 
 .black {
-  color: $white;
-  a {
-    color: $black;
-  }
-  a:hover {
-    color: $white;
-  }
+  color: $black;
+  @include links($black, $primary-color)
 }
 
 .white {
   color: $white;
+  @include links($white, $primary-color);
 }
 
 // 5. Typography
