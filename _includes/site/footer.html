@@ -1,4 +1,17 @@
-<div class="grid-x grid-padding-y grid-padding-x padding-vertical-2">
+<div class="grid-x grid-padding-x grid-padding-y align-center padding-vertical-2">
+  <div class="small-12 medium-7 large-5 cell">
+    <form action="//bristolcomedygarden.us8.list-manage.com/subscribe/post?u=4f6c24b1fd6a641ead690d017&id=e6f2914b7c" method="post" target="_blank" novalidate="">
+      <div class="input-group">
+        <input class="input-group-field" type="email" name="EMAIL" id="mce-EMAIL" placeholder="Subscribe to our newsletter">
+        <div class="input-group-button">
+        <input type="submit" class="button hollow primary" value="Subscribe">
+        </div>
+      </div>
+    </form>
+  </div>
+</div>
+
+<div class="grid-x grid-padding-y grid-padding-x">
   <div class="small-12 cell">
     <ul class="menu align-center">
       <li><a href="{{site.social.facebook}}" target="_blank"><svg class="icon icon-socials icon-facebook"><use xlink:href="/assets/icons/symbol-defs.svg#icon-facebook"></use></svg></a></li>
@@ -8,51 +21,16 @@
   </div>
 </div>
 
-<footer class="primary-background-colour">
-
-  <div class="grid-x grid-padding-y">
-    <div class="small-12 cell text-center">
-      <h5><a href="/tickets">{{site.event-address}} — {{site.event-span}}</a></h5>
-<!--       <h5><a href="mailto:{{site.email}}">{{site.email}}</a></h5> -->
-      <ul class="menu align-center">
-      {% for item in site.sponsors %}  
-        <li><a href="{{ item[1] }}" target="_blank" rel="noopener"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-sponsors icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
-      {% endfor %} 
-      </ul>
-    </div>
-  </div>
-
-<!--
-  <div class="grid-x grid-padding-y">
-    <div class="small-12 shrink cell">
-      <ul class="menu align-center">
-      {% for item in site.sponsors %}  
-        <li><a href="{{ item[1] }}" target="_blank" rel="noopener"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-sponsors icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
-      {% endfor %} 
-      </ul>
-    </div>
-  </div>
--->
-  
-  <div class="grid-x grid-padding-x align-center">
-    <div class="small-12 medium-7 large-5 cell">
-
-      <form action="//bristolcomedygarden.us8.list-manage.com/subscribe/post?u=4f6c24b1fd6a641ead690d017&id=e6f2914b7c" method="post" target="_blank" novalidate="">
-      
-      <div class="input-group">
-        <input class="input-group-field" type="email" name="EMAIL" id="mce-EMAIL" placeholder="Subscribe to our newsletter">
-        
-        <div class="input-group-button">
-        <input type="submit" class="button hollow white" value="Subscribe">
-        </div>
-      </div>
-      
-      </form>
-    </div>
-  </div>
+<div class="primary-background-colour padding-vertical-1">
   
   <div class="grid-x grid-padding-y grid-padding-x align-center">
     <div class="small-12 cell text-center">
+      <h5><a href="/tickets">{{site.event-address}} — {{site.event-span}}</a></h5>
+      <ul class="menu align-center">
+      {% for item in site.sponsors %}  
+        <li><a href="{{ item[1] }}" target="_blank" rel="noopener"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-sponsors icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
+      {% endfor %} 
+      </ul>
       <ul class="menu align-center">
       <li><a href="/privacy-policy"><small>© {{'now' | date: "%Y"}} {{site.company}} – Subject to Site Permission and License Approval. Images © their respective owners.</small></a></li>
       <li><a href="/privacy-policy"><small>Privacy Policy</small></a></li>
@@ -61,4 +39,4 @@
     </div>
   </div>
 
-</footer>
+</div>
