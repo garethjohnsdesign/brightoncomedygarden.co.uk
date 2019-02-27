@@ -9,7 +9,7 @@ layout: default
     <li class="tabs-title is-active"><a href="#all" aria-selected="true">All Days</a></li>
     {% assign collection = site.line-up | group_by_exp: "item", "item.date | date: '%A %-d %b'" %}
     {% for day in collection %}
-    <li class="tabs-title"><a href="#{{ day.name | slugify | remove: "-" }}">{{ day.name }}</a></li>
+    <li class="tabs-title text-lowercase"><a href="#{{ day.name | slugify | remove: "-" }}">{{ day.name }}</a></li>
     {% endfor %}
     </ul>
   </div>
