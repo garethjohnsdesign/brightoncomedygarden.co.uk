@@ -9296,15 +9296,21 @@ p a {
 .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
   background-color: #fefefe; }
 
-.home .navigation {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%; }
-  .home .navigation a {
-    color: #fefefe; }
-    .home .navigation a:hover {
-      color: #FF8300; }
+.home .navigation a {
+  color: #333333; }
+  .home .navigation a:hover {
+    color: #FF8300; }
+
+@media print, screen and (min-width: 40em) {
+  .home .navigation {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; }
+    .home .navigation a {
+      color: #fefefe; }
+      .home .navigation a:hover {
+        color: #FF8300; } }
 
 .off-canvas .menu .active > a {
   background: transparent;

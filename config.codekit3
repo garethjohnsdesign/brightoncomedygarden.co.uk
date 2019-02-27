@@ -9806,7 +9806,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "/bower_components/swup/dist/plugins/swupGaPlugin.js",
 		"oF": 0,
 		"sC": 1,
@@ -9866,7 +9866,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "/bower_components/swup/dist/swup.js",
 		"oF": 0,
 		"sC": 1,
@@ -10401,13 +10401,6 @@
 		"oAP": "/bower_components/what-input/yarn.lock",
 		"oF": 0
 		},
-	"/food-and-drink.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/food-and-drink.html",
-		"oF": 0
-		},
 	"/food-and-drink.md": {
 		"cB": 0,
 		"cS": 0,
@@ -10619,38 +10612,26 @@
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/swup/dist/swup.js",
+			"linkedFileAbbreviatedPath": "/bower_components/foundation-sites/dist/js/foundation.js",
 			"position": 1,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/swup/dist/plugins/swupGaPlugin.js",
+			"linkedFileAbbreviatedPath": "/bower_components/swiper/dist/js/swiper.js",
 			"position": 2,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/foundation-sites/dist/js/foundation.js",
+			"linkedFileAbbreviatedPath": "/bower_components/aos/dist/aos.js",
 			"position": 3,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/swiper/dist/js/swiper.js",
-			"position": 4,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/aos/dist/aos.js",
-			"position": 5,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
 			"linkedFileAbbreviatedPath": "/bower_components/jquery.cookie/jquery.cookie.js",
-			"position": 6,
+			"position": 4,
 			"type": 0
 			}
 		]

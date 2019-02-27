@@ -274,14 +274,17 @@ url('/assets/img/arrow-right@3x.png') 3x
 // -------
 
 .home .navigation {
+  @include links ($black, $primary-color);
+  @include breakpoint(medium) {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   @include links ($white, $primary-color);
+  }
 }
 
 .off-canvas .menu .active > a {
-background: transparent;
-color: $black;
+  background: transparent;
+  color: $black;
 }
