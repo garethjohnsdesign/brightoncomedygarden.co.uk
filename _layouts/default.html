@@ -24,6 +24,14 @@ layout: compress
 {{ content }}
 <!-- End Content -->
 
+<!-- Newsletter -->  
+{% include site/newsletter.html %}
+<!-- End Newsletter -->
+
+<!-- Socials -->  
+{% include site/socials.html %}
+<!-- End Socials -->
+
 <!-- Footer -->  
 {% include site/footer.html %}
 <!-- End Footer -->
@@ -33,15 +41,15 @@ layout: compress
 {% include site/cookies.html %}
 <!-- End Cookies -->
 
+<!-- Scripts -->
+{% include site/scripts.html %}
+<!-- End Scripts -->
+
 <!-- Google Analytics -->
 {% if site.analytics %}
 {% include site/analytics.html %}
 {% endif %}
 <!-- End Google Analytics -->
-
-<!-- Scripts -->
-{% include site/scripts.html %}
-<!-- End Scripts -->
 
 </body>
 
