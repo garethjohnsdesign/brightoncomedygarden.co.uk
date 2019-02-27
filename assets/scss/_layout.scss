@@ -254,7 +254,7 @@ url('/assets/img/arrow-right@3x.png') 3x
 .navigation {
   @include padding(2, 2, 2, 2);
   .cell {
-	z-index: 14; 
+	z-index: 13; 
   }
   @include links ($black, $primary-color)
   a {

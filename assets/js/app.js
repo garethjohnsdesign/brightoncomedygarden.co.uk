@@ -15,7 +15,7 @@ $(document).foundation();
 // --------------------
 
 $(function() {
-  if($.cookie('showed_modal') != "true") {
+  if($.cookie('showed_modal') !== "true") {
 
 setTimeout(
   function() 

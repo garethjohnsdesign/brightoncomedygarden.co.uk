@@ -10,12 +10,12 @@ layout: compress
 <!-- End Head -->
 
 <body class="{{page.layout | slugify}}">
-<div class="off-canvas-wrapper">
-<div class="multilevel-offcanvas off-canvas position-left" id="offCanvas" data-off-canvas data-transition="overlap">
+
+<div class="off-canvas position-left" id="offCanvas" data-off-canvas data-transition="overlap">
 {% include off-canvas/menu.html %}
 </div>
 
-<div class="off-canvas-content" id="main" data-aos="fade-in" data-aos-delay="100" data-off-canvas-content>
+<div class="off-canvas-content" id="main" data-off-canvas-content>
 <!-- Navigation -->  
 {% include site/navigation.html %}
 <!-- End Navigation -->
@@ -27,8 +27,6 @@ layout: compress
 <!-- Footer -->  
 {% include site/footer.html %}
 <!-- End Footer -->
-</div>
-
 </div>
 
 <!-- Cookies -->

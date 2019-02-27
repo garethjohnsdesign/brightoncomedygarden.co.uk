@@ -6489,20 +6489,20 @@ select {
   transform: translateX(-100vw); }
   @media print, screen and (min-width: 40em) {
     .position-left {
-      width: 50vw;
-      transform: translateX(-50vw); } }
+      width: 400px;
+      transform: translateX(-400px); } }
   .off-canvas-content .off-canvas.position-left {
     transform: translateX(-100vw); }
     @media print, screen and (min-width: 40em) {
       .off-canvas-content .off-canvas.position-left {
-        transform: translateX(-50vw); } }
+        transform: translateX(-400px); } }
     .off-canvas-content .off-canvas.position-left.is-transition-overlap.is-open {
       transform: translate(0, 0); }
   .off-canvas-content.is-open-left.has-transition-push {
     transform: translateX(100vw); }
     @media print, screen and (min-width: 40em) {
       .off-canvas-content.is-open-left.has-transition-push {
-        transform: translateX(50vw); } }
+        transform: translateX(400px); } }
   .position-left.is-transition-push {
     box-shadow: inset 0px 0 0px 0px 0; }
 
@@ -6515,20 +6515,20 @@ select {
   transform: translateX(100vw); }
   @media print, screen and (min-width: 40em) {
     .position-right {
-      width: 50vw;
-      transform: translateX(50vw); } }
+      width: 400px;
+      transform: translateX(400px); } }
   .off-canvas-content .off-canvas.position-right {
     transform: translateX(100vw); }
     @media print, screen and (min-width: 40em) {
       .off-canvas-content .off-canvas.position-right {
-        transform: translateX(50vw); } }
+        transform: translateX(400px); } }
     .off-canvas-content .off-canvas.position-right.is-transition-overlap.is-open {
       transform: translate(0, 0); }
   .off-canvas-content.is-open-right.has-transition-push {
     transform: translateX(-100vw); }
     @media print, screen and (min-width: 40em) {
       .off-canvas-content.is-open-right.has-transition-push {
-        transform: translateX(-50vw); } }
+        transform: translateX(-400px); } }
   .position-right.is-transition-push {
     box-shadow: inset 0px 0 0px 0px 0; }
 
@@ -6584,9 +6584,9 @@ select {
     .off-canvas-content .position-left.reveal-for-medium {
       transform: none; }
     .off-canvas-content.has-reveal-left {
-      margin-left: 50vw; }
+      margin-left: 400px; }
     .position-left.reveal-for-medium ~ .off-canvas-content {
-      margin-left: 50vw; }
+      margin-left: 400px; }
   .position-right.reveal-for-medium {
     transform: none;
     z-index: 12;
@@ -6597,9 +6597,9 @@ select {
     .off-canvas-content .position-right.reveal-for-medium {
       transform: none; }
     .off-canvas-content.has-reveal-right {
-      margin-right: 50vw; }
+      margin-right: 400px; }
     .position-right.reveal-for-medium ~ .off-canvas-content {
-      margin-right: 50vw; }
+      margin-right: 400px; }
   .position-top.reveal-for-medium {
     transform: none;
     z-index: 12;
@@ -6610,9 +6610,9 @@ select {
     .off-canvas-content .position-top.reveal-for-medium {
       transform: none; }
     .off-canvas-content.has-reveal-top {
-      margin-top: 50vw; }
+      margin-top: 400px; }
     .position-top.reveal-for-medium ~ .off-canvas-content {
-      margin-top: 50vw; }
+      margin-top: 400px; }
   .position-bottom.reveal-for-medium {
     transform: none;
     z-index: 12;
@@ -6623,9 +6623,9 @@ select {
     .off-canvas-content .position-bottom.reveal-for-medium {
       transform: none; }
     .off-canvas-content.has-reveal-bottom {
-      margin-bottom: 50vw; }
+      margin-bottom: 400px; }
     .position-bottom.reveal-for-medium ~ .off-canvas-content {
-      margin-bottom: 50vw; } }
+      margin-bottom: 400px; } }
 
 @media print, screen and (min-width: 64em) {
   .position-left.reveal-for-large {
@@ -6638,9 +6638,9 @@ select {
     .off-canvas-content .position-left.reveal-for-large {
       transform: none; }
     .off-canvas-content.has-reveal-left {
-      margin-left: 50vw; }
+      margin-left: 400px; }
     .position-left.reveal-for-large ~ .off-canvas-content {
-      margin-left: 50vw; }
+      margin-left: 400px; }
   .position-right.reveal-for-large {
     transform: none;
     z-index: 12;
@@ -6651,9 +6651,9 @@ select {
     .off-canvas-content .position-right.reveal-for-large {
       transform: none; }
     .off-canvas-content.has-reveal-right {
-      margin-right: 50vw; }
+      margin-right: 400px; }
     .position-right.reveal-for-large ~ .off-canvas-content {
-      margin-right: 50vw; }
+      margin-right: 400px; }
   .position-top.reveal-for-large {
     transform: none;
     z-index: 12;
@@ -6664,9 +6664,9 @@ select {
     .off-canvas-content .position-top.reveal-for-large {
       transform: none; }
     .off-canvas-content.has-reveal-top {
-      margin-top: 50vw; }
+      margin-top: 400px; }
     .position-top.reveal-for-large ~ .off-canvas-content {
-      margin-top: 50vw; }
+      margin-top: 400px; }
   .position-bottom.reveal-for-large {
     transform: none;
     z-index: 12;
@@ -6677,9 +6677,9 @@ select {
     .off-canvas-content .position-bottom.reveal-for-large {
       transform: none; }
     .off-canvas-content.has-reveal-bottom {
-      margin-bottom: 50vw; }
+      margin-bottom: 400px; }
     .position-bottom.reveal-for-large ~ .off-canvas-content {
-      margin-bottom: 50vw; } }
+      margin-bottom: 400px; } }
 
 @media screen and (min-width: 75em) {
   .position-left.reveal-for-xlarge {
@@ -6692,9 +6692,9 @@ select {
     .off-canvas-content .position-left.reveal-for-xlarge {
       transform: none; }
     .off-canvas-content.has-reveal-left {
-      margin-left: 50vw; }
+      margin-left: 400px; }
     .position-left.reveal-for-xlarge ~ .off-canvas-content {
-      margin-left: 50vw; }
+      margin-left: 400px; }
   .position-right.reveal-for-xlarge {
     transform: none;
     z-index: 12;
@@ -6705,9 +6705,9 @@ select {
     .off-canvas-content .position-right.reveal-for-xlarge {
       transform: none; }
     .off-canvas-content.has-reveal-right {
-      margin-right: 50vw; }
+      margin-right: 400px; }
     .position-right.reveal-for-xlarge ~ .off-canvas-content {
-      margin-right: 50vw; }
+      margin-right: 400px; }
   .position-top.reveal-for-xlarge {
     transform: none;
     z-index: 12;
@@ -6718,9 +6718,9 @@ select {
     .off-canvas-content .position-top.reveal-for-xlarge {
       transform: none; }
     .off-canvas-content.has-reveal-top {
-      margin-top: 50vw; }
+      margin-top: 400px; }
     .position-top.reveal-for-xlarge ~ .off-canvas-content {
-      margin-top: 50vw; }
+      margin-top: 400px; }
   .position-bottom.reveal-for-xlarge {
     transform: none;
     z-index: 12;
@@ -6731,9 +6731,9 @@ select {
     .off-canvas-content .position-bottom.reveal-for-xlarge {
       transform: none; }
     .off-canvas-content.has-reveal-bottom {
-      margin-bottom: 50vw; }
+      margin-bottom: 400px; }
     .position-bottom.reveal-for-xlarge ~ .off-canvas-content {
-      margin-bottom: 50vw; } }
+      margin-bottom: 400px; } }
 
 @media screen and (min-width: 90em) {
   .position-left.reveal-for-xxlarge {
@@ -6746,9 +6746,9 @@ select {
     .off-canvas-content .position-left.reveal-for-xxlarge {
       transform: none; }
     .off-canvas-content.has-reveal-left {
-      margin-left: 50vw; }
+      margin-left: 400px; }
     .position-left.reveal-for-xxlarge ~ .off-canvas-content {
-      margin-left: 50vw; }
+      margin-left: 400px; }
   .position-right.reveal-for-xxlarge {
     transform: none;
     z-index: 12;
@@ -6759,9 +6759,9 @@ select {
     .off-canvas-content .position-right.reveal-for-xxlarge {
       transform: none; }
     .off-canvas-content.has-reveal-right {
-      margin-right: 50vw; }
+      margin-right: 400px; }
     .position-right.reveal-for-xxlarge ~ .off-canvas-content {
-      margin-right: 50vw; }
+      margin-right: 400px; }
   .position-top.reveal-for-xxlarge {
     transform: none;
     z-index: 12;
@@ -6772,9 +6772,9 @@ select {
     .off-canvas-content .position-top.reveal-for-xxlarge {
       transform: none; }
     .off-canvas-content.has-reveal-top {
-      margin-top: 50vw; }
+      margin-top: 400px; }
     .position-top.reveal-for-xxlarge ~ .off-canvas-content {
-      margin-top: 50vw; }
+      margin-top: 400px; }
   .position-bottom.reveal-for-xxlarge {
     transform: none;
     z-index: 12;
@@ -6785,9 +6785,9 @@ select {
     .off-canvas-content .position-bottom.reveal-for-xxlarge {
       transform: none; }
     .off-canvas-content.has-reveal-bottom {
-      margin-bottom: 50vw; }
+      margin-bottom: 400px; }
     .position-bottom.reveal-for-xxlarge ~ .off-canvas-content {
-      margin-bottom: 50vw; } }
+      margin-bottom: 400px; } }
 
 @media print, screen and (min-width: 40em) {
   .off-canvas.in-canvas-for-medium {
@@ -8400,6 +8400,85 @@ ol.list-upper-roman {
 .long-delay {
   animation-delay: 700ms !important; }
 
+/*!
+ * Hamburgers
+ * @description Tasty CSS-animated hamburgers
+ * @author Jonathan Suh @jonsuh
+ * @site https://jonsuh.com/hamburgers
+ * @link https://github.com/jonsuh/hamburgers
+ */
+.hamburger {
+  padding: 0.5rem 0;
+  display: inline-block;
+  cursor: pointer;
+  transition-property: opacity, filter;
+  transition-duration: 0.15s;
+  transition-timing-function: linear;
+  font: inherit;
+  color: inherit;
+  text-transform: none;
+  background-color: transparent;
+  border: 0;
+  margin: 0;
+  overflow: visible; }
+  .hamburger:hover {
+    filter: opacity(100%); }
+
+.hamburger-box {
+  width: 2rem;
+  height: 28px;
+  display: inline-block;
+  position: relative; }
+
+.hamburger-inner {
+  display: block;
+  top: 50%;
+  margin-top: -2px; }
+  .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
+    width: 2rem;
+    height: 4px;
+    background-color: #fefefe;
+    border-radius: 4px;
+    position: absolute;
+    transition-property: transform;
+    transition-duration: 0.15s;
+    transition-timing-function: ease; }
+  .hamburger-inner::before, .hamburger-inner::after {
+    content: "";
+    display: block; }
+  .hamburger-inner::before {
+    top: -12px; }
+  .hamburger-inner::after {
+    bottom: -12px; }
+
+/*
+   * Collapse
+   */
+.hamburger--collapse .hamburger-inner {
+  top: auto;
+  bottom: 0;
+  transition-duration: 0.13s;
+  transition-delay: 0.13s;
+  transition-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19); }
+  .hamburger--collapse .hamburger-inner::after {
+    top: -24px;
+    transition: top 0.2s 0.2s cubic-bezier(0.33333, 0.66667, 0.66667, 1), opacity 0.1s linear; }
+  .hamburger--collapse .hamburger-inner::before {
+    transition: top 0.12s 0.2s cubic-bezier(0.33333, 0.66667, 0.66667, 1), transform 0.13s cubic-bezier(0.55, 0.055, 0.675, 0.19); }
+
+.hamburger--collapse.is-active .hamburger-inner {
+  transform: translate3d(0, -12px, 0) rotate(-45deg);
+  transition-delay: 0.22s;
+  transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }
+  .hamburger--collapse.is-active .hamburger-inner::after {
+    top: 0;
+    opacity: 0;
+    transition: top 0.2s cubic-bezier(0.33333, 0, 0.66667, 0.33333), opacity 0.1s 0.22s linear; }
+  .hamburger--collapse.is-active .hamburger-inner::before {
+    top: 0;
+    transform: rotate(-90deg);
+    transition: top 0.1s 0.16s cubic-bezier(0.33333, 0, 0.66667, 0.33333), transform 0.13s 0.25s cubic-bezier(0.215, 0.61, 0.355, 1); }
+
 /**
  * Swiper 4.4.6
  * Most modern mobile touch slider and framework with hardware accelerated transitions
@@ -9285,7 +9364,7 @@ p a {
   padding-bottom: 2rem !important;
   padding-left: 2rem !important; }
   .navigation .cell {
-    z-index: 14; }
+    z-index: 13; }
   .navigation a {
     color: #333333; }
     .navigation a:hover {

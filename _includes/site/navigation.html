@@ -1,14 +1,21 @@
 {% for entry in site.data.navigation.header %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
 
 
-<div class="grid-x align-justify align-middle navigation" style="z-index: 10010"> 
+<div class="grid-x align-justify align-middle navigation"> 
 
-    <div class="small-3 cell" style="z-index: 10010">  
-      <a data-toggle="offCanvas" style="z-index: 10010"><svg class="icon icon-sort" style="z-index: 10010"><use xlink:href="/assets/icons/symbol-defs.svg#icon-sort"></use></svg></a>
+    <div class="small-3 cell">  
+      <a data-toggle="offCanvas"><svg class="icon icon-sort"><use xlink:href="/assets/icons/symbol-defs.svg#icon-sort"></use></svg></a>
+
+<!--
+    <button class="hamburger hamburger--collapse" data-toggler=".is-active" id="toggle" aria-label="menu" type="button" data-toggle="offCanvas toggle">
+      <span class="hamburger-box"><span class="hamburger-inner"></span></span>
+    </button>
+-->
+
     </div>
 
     <div class="small-6 cell text-center">   
-      <a data-toggle="offCanvas" style="z-index: 10010">
+      <a data-toggle="offCanvas">
       <div class="show-for-medium"><svg class="icon icon-inline-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-inline-logo"></use></svg></div>
       <div class="show-for-small-only"><svg class="icon icon-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo"></use></svg></div>
       <div>{{site.event-span}}<span class="show-for-medium"> — {{site.event-address-short}}</span></div>
@@ -18,43 +25,6 @@
     <div class="small-3 cell text-right">  
       <a class="h4 text-lowercase underline" href="/tickets/">Tickets</a>
     </div>
-  
-
-    
-<!--
-    <div class="shrink cell align-middle">
-      
-      <div class="show-for-large">
-        <ul class="dropdown menu align-middle" data-dropdown-menu>
-          {% for entry in site.data.navigation %}
-          {% if entry.url == current_page %}
-          {% assign current = ' class="active"' %}
-          {% else %}
-          {% assign current = null %}
-          {% endif %}
-          {% assign sublinks = entry.sublinks %}
-          {% if sublinks %}
-          <li{{ current }}>
-          <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
-          <ul class="menu vertical">
-          {% for sublink in sublinks %}
-          <li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
-          {% endfor %}
-          </ul>
-          </li>
-          {% else %}
-          <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
-          {% endif %}
-          {% endfor %}
-          <li class="show-for-xlarge"><a href="{{site.social.facebook}}" target="_blank"><svg class="icon icon-socials icon-facebook"><use xlink:href="/assets/icons/symbol-defs.svg#icon-facebook"></use></svg></a></li>
-          <li class="show-for-xlarge"><a href="{{site.social.instagram}}" target="_blank"><svg class="icon icon-socials icon-instagram"><use xlink:href="/assets/icons/symbol-defs.svg#icon-instagram"></use></svg></a></li>
-          <li class="show-for-xlarge"><a href="{{site.social.twitter}}" target="_blank"><svg class="icon icon-socials icon-twitter"><use xlink:href="/assets/icons/symbol-defs.svg#icon-twitter"></use></svg></a></li>
-        </ul>
-      </div>
-    
-    </div>
--->
-  
 
 </div>
 
