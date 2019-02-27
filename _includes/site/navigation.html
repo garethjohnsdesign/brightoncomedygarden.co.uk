@@ -1,3 +1,11 @@
+<div class="grid-x grid-padding-y align-justify primary-background-colour show-for-small-only"> 
+
+    <div class="small-12 cell text-center">   
+      <div>{{site.event-span}} — {{site.event-address-short}}</div>
+    </div>
+
+</div>
+
 {% for entry in site.data.navigation.header %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
 
 
