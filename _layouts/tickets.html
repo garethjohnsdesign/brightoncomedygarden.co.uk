@@ -8,7 +8,7 @@ layout: default
   {% for day in collection %}
   
   <!-- Day -->
-  <div class="grid-x grid-padding-y align-center text-lowercase">
+  <div class="grid-x grid-padding-y align-center text-lowercase show-for-medium">
   <div class="shrink cell">
     <h3>{{ day.name }}</h3>
   </div>
@@ -28,10 +28,11 @@ layout: default
 
           
   <!-- Time -->
-  <div class="small-12 large-2 cell text-center medium-text-left">
+  <div class="small-12 large-2 cell text-center large-text-left">
     <div class="grid-y align-justify" style="height: 100%">
       
       <div class="shrink cell">
+      <h3 class="text-lowercase show-for-small-only">{{ day.date | date: "%A %-d %b" }}</h3>
       <h3>{{ day.date | date: "%l:%M%p" }}</h3>
       <a href="{{ day.url }}"><svg class="icon icon-info"><use xlink:href="/assets/icons/symbol-defs.svg#icon-info"></use></svg></a>
       </div>
@@ -56,13 +57,13 @@ layout: default
             {% endfor %}
           </div>
           
-          <div class="small-12 large-4 cell text-lowercase text-center medium-text-left">
+          <div class="small-12 large-4 cell text-lowercase text-center large-text-left">
             {% for act in day.acts %}
               <h3>{{ act.name }}</h3>
             {% endfor %}
           </div>
           
-          <div class="small-12 large-2 cell text-center medium-text-right">
+          <div class="small-12 large-2 cell text-center large-text-right">
             <div class="show-for-large">
             <h5 class="text-lowercase">Festival Opens</h5>
             {{ day.festival-starts-at | date: "%l:%M%p" }}
