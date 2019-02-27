@@ -10,9 +10,6 @@ layout: default
   <div class="swiper-button-next-test flex-container align-middle align-right primary-color margin-right-1"><svg class="icon icon-arrow icon-arrow_forward"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow_forward"></use></svg></div>
 -->
 
-  <div class="swiper-button-prev-test flex-container align-middle primary-color margin-left-1"></div>
-  <div class="swiper-button-next-test flex-container align-middle align-right primary-color margin-right-1"></div>
-
   <div class="swiper-wrapper">
     {% for act in page.carousel %}
     {% assign image = act.image %}
@@ -21,9 +18,9 @@ layout: default
         
         <div class="grid-y height-100 align-center content">
           <div class="shrink cell text-center">
-          <a href="/line-up/{{act.line-up | slugify}}">
-            <h1 class="white text-lowercase">{{act.name}}</h3>
-            <h5 class="white">{{act.subheader}}</h5>
+          <a href="/line-up/{{act.line-up | slugify}}" class="white">
+            <h1 class="text-lowercase">{{act.name}}</h3>
+            <h5>{{act.subheader}}</h5>
             {% if day.is-sold-out == true %}
             <p>Sold Out</p>
             {% endif %}
@@ -35,6 +32,12 @@ layout: default
     </div>
     {% endfor %}
   </div>
+
+<!--
+  <div class="swiper-button-prev-test flex-container align-middle primary-color margin-left-1"></div>
+  <div class="swiper-button-next-test flex-container align-middle align-right primary-color margin-right-1"></div>
+-->
+
 
 </div>
 <!-- End Headliners - Desktop -->
