@@ -59,18 +59,18 @@ layout: default
           
           <div class="small-12 large-4 cell text-lowercase text-center large-text-left">
             {% for act in day.acts %}
-              <h3>{{ act.name }}</h3>
+              <h3 class="margin-bottom-0">{{ act.name }}</h3>
             {% endfor %}
           </div>
           
           <div class="small-12 large-2 cell text-center large-text-right">
             <div class="show-for-large">
-            <h5 class="text-lowercase">Festival Opens</h5>
+            <h5 class="text-lowercase margin-bottom-0">Festival Opens</h5>
             {{ day.festival-starts-at | date: "%l:%M%p" }}
-            <h5 class="text-lowercase padding-top-1">Show Starts</h5>
+            <h5 class="text-lowercase margin-bottom-0 padding-top-1">Show Starts</h5>
             {{ day.show-starts-at | date: "%l:%M%p" }}
             </div>
-            <h5 class="text-lowercase padding-top-1">Tickets</h5>
+            <h5 class="text-lowercase margin-bottom-0 padding-top-1">Tickets</h5>
             {{ day.ticket-price }}
             
       <div class="shrink cell hide-for-large padding-top-2">
