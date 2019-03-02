@@ -13017,7 +13017,7 @@
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, /storage/framework/sessions, node_modules, /_site",
+	"skippedFoldersString": "_cache,cache,log,_logs,logs,node_modules,/_site,/storage/framework/sessions",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
 	"tsAllowSyntheticDefaultImports": 0,
