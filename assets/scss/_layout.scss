@@ -252,6 +252,9 @@ url('/assets/img/arrow-right@3x.png') 3x
   border-bottom: 1px solid $secondary-color;
 	z-index: 12;
   @include breakpoint(medium) {
+  @include padding(1.5, 1.5, 1, 1.5);
+  }
+  @include breakpoint(xxlarge) {
   @include padding(2, 2, 1, 2);
   }
   @include links ($secondary-color, $primary-color)
@@ -277,18 +280,26 @@ url('/assets/img/arrow-right@3x.png') 3x
 
 .home .navigation {
   @include links ($secondary-color, $primary-color);
+  border-bottom: 1px solid $secondary-color;
   @include breakpoint(xxlarge) {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
+  border-bottom: 1px solid $white;
   @include links ($white, $primary-color);
   }
 }
 
 .home .is-dropdown-submenu {
+// background-color: transparent;
+  z-index: 14;
+  @include links ($secondary-color, $primary-color);
+/*
+  @include breakpoint(xxlarge) {
 background-color: transparent;
-border: 0px;
+  }
+*/
 }
 
 .off-canvas .menu .active > a {

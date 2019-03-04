@@ -4640,19 +4640,19 @@ h6, .h6 {
 
 h1, .h1 {
   font-size: 1.8888888889rem;
-  line-height: 1;
+  line-height: 1.1;
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
 h2, .h2 {
   font-size: 1.6666666667rem;
-  line-height: 1;
+  line-height: 1.1;
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
 h3, .h3 {
   font-size: 1.5555555556rem;
-  line-height: 1;
+  line-height: 1.1;
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
@@ -4663,7 +4663,7 @@ h4, .h4 {
   margin-bottom: 0.5rem; }
 
 h5, .h5 {
-  font-size: 0.9444444444rem;
+  font-size: 0.8888888889rem;
   line-height: 1.2;
   margin-top: 0;
   margin-bottom: 0.5rem; }
@@ -4697,6 +4697,38 @@ h6, .h6 {
     margin-bottom: 0.5rem; }
   h5, .h5 {
     font-size: 1.1111111111rem;
+    line-height: 1.2;
+    margin-top: 0;
+    margin-bottom: 0.5rem; }
+  h6, .h6 {
+    font-size: 0.8888888889rem;
+    line-height: 1.2;
+    margin-top: 0;
+    margin-bottom: 0.5rem; } }
+
+@media print, screen and (min-width: 64em) {
+  h1, .h1 {
+    font-size: 2.6666666667rem;
+    line-height: 1.2;
+    margin-top: 0;
+    margin-bottom: 0.5rem; }
+  h2, .h2 {
+    font-size: 2.2222222222rem;
+    line-height: 1.2;
+    margin-top: 0;
+    margin-bottom: 0.5rem; }
+  h3, .h3 {
+    font-size: 1.7222222222rem;
+    line-height: 1.2;
+    margin-top: 0;
+    margin-bottom: 0.5rem; }
+  h4, .h4 {
+    font-size: 1.3888888889rem;
+    line-height: 1.2;
+    margin-top: 0;
+    margin-bottom: 0.5rem; }
+  h5, .h5 {
+    font-size: 1.1666666667rem;
     line-height: 1.2;
     margin-top: 0;
     margin-bottom: 0.5rem; }
@@ -9167,6 +9199,12 @@ p a {
   z-index: 12; }
   @media print, screen and (min-width: 40em) {
     .navigation {
+      padding-top: 1.5rem !important;
+      padding-right: 1.5rem !important;
+      padding-bottom: 1rem !important;
+      padding-left: 1.5rem !important; } }
+  @media screen and (min-width: 90em) {
+    .navigation {
       padding-top: 2rem !important;
       padding-right: 2rem !important;
       padding-bottom: 1rem !important;
@@ -9187,25 +9225,35 @@ p a {
 .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
   background-color: #fefefe; }
 
-.home .navigation a {
-  color: #041f4a; }
-  .home .navigation a:hover {
-    color: #FF8300; }
-
-@media screen and (min-width: 90em) {
-  .home .navigation {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%; }
-    .home .navigation a {
-      color: #fefefe; }
-      .home .navigation a:hover {
-        color: #FF8300; } }
+.home .navigation {
+  border-bottom: 1px solid #041f4a; }
+  .home .navigation a {
+    color: #041f4a; }
+    .home .navigation a:hover {
+      color: #FF8300; }
+  @media screen and (min-width: 90em) {
+    .home .navigation {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      border-bottom: 1px solid #fefefe; }
+      .home .navigation a {
+        color: #fefefe; }
+        .home .navigation a:hover {
+          color: #FF8300; } }
 
 .home .is-dropdown-submenu {
-  background-color: transparent;
-  border: 0px; }
+  z-index: 14;
+  /*
+  @include breakpoint(xxlarge) {
+background-color: transparent;
+  }
+*/ }
+  .home .is-dropdown-submenu a {
+    color: #041f4a; }
+    .home .is-dropdown-submenu a:hover {
+      color: #FF8300; }
 
 .off-canvas .menu .active > a {
   background: transparent;

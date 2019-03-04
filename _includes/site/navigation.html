@@ -19,7 +19,7 @@
     </div>
 
     <div class="shrink cell show-for-xlarge text-lowercase">    
-      <ul class="dropdown menu" data-dropdown-menu>
+      <ul class="dropdown menu align-middle" data-dropdown-menu>
           {% for entry in site.data.navigation.header-full %}
           {% if entry.url == current_page %}
           {% assign current = ' class="active"' %}
@@ -29,7 +29,7 @@
           {% assign sublinks = entry.sublinks %}
           {% if sublinks %}
           <li{{ current }}>
-          <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+          <a href="{{ site.baseurl }}{{ entry.url }}" class="h5 {% if entry.class %}{{ entry.class }}{% endif %}">{{ entry.title }}</a>
           <ul class="menu vertical">
           {% for sublink in sublinks %}
           <li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
@@ -37,7 +37,7 @@
           </ul>
           </li>
           {% else %}
-          <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}" {% if entry.class %}class="{{ entry.class }}"{% endif %}>{{ entry.title }}</a></li>
+          <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}" class="h5 {% if entry.class %}{{ entry.class }}{% endif %}">{{ entry.title }}</a></li>
           {% endif %}
           {% endfor %}
 <!--
