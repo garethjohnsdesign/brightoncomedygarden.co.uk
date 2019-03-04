@@ -6154,7 +6154,7 @@ select {
   left: 100%;
   z-index: 1;
   display: none;
-  min-width: 200px;
+  min-width: 250px;
   border: 1px solid #a6a6a6;
   background: #fefefe; }
   .dropdown .is-dropdown-submenu a {
@@ -9160,7 +9160,7 @@ p a {
   cursor: -webkit-image-set(url("/assets/img/arrow-right.png") 1x, url("/assets/img/arrow-right@2x.png") 2x, url("/assets/img/arrow-right@3x.png") 3x) 16 16, auto !important; }
 
 .acts .content:hover {
-  background-color: #ff8300; }
+  background-color: #041f4a; }
 
 .navigation {
   padding-top: 1rem !important;

@@ -12,7 +12,7 @@ collections:
     title: Uploads
     output: false
 url: https://www.brightoncomedygarden.co.uk
-description: A scintillating array of UK’s finest comedy, street food, craft beers and cocktails neatly placed in the grounds of Brighton’s Preston Park... Oh, and a whole load of entertainment too!
+description: The first ever Brighton Comedy Garden plants its roots this June with five nights of sensational stand-up in the Big Top paired with street-food, craft beers and more in the glorious Preston Park.
 permalink: pretty
 exclude:
 - bower.json

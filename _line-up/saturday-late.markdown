@@ -3,27 +3,23 @@ title: Saturday Late
 date: 2019-06-22 20:15:00 Z
 position: 5
 acts:
-- name: Reginald D Hunter
-  image: "/uploads/reginald-d-hunter.jpg"
-- name: Jayde Adams
-  image: "/uploads/jayde-adams.jpg"
-- name: Gary Delaney
-  image: "/uploads/gary-delaney.jpg"
+- name: Adam Hills
+  image: "/uploads/adam-hills.jpg"
+- name: Rosie Jones
+  image: "/uploads/rosie-jones.jpg"
 - name: Rhys James
   image: "/uploads/rhys-james.jpg"
-- name: Andrew Maxwell
-  image: "/uploads/andrew-maxwell.jpg"
-quote: Simply exhilarating…This is comedy of a rare scope
-quote-cite: The Times
-secondary-text: Joining Reginald is Edinburgh Comedy Award nominee Jayde Adams, Mock
-  The Week’s one-liner slinger Gary Delaney, whip-smart Rhys James and the unmissable
-  Live At The Apollo star Andrew Maxwell as host.
+- name: Stephen K Amos
+  image: "/uploads/stephen-k-amos.jpg"
+quote: Hills delivers stand-up so effortlessly brilliant you wonder why some comedians even get out of bed
+quote-cite: The Guardian
+secondary-text: Joining Adam is a very special guest to be announced plus mischievous charmer and 8 Out Of 10 Cats star Rosie Jones, Mock The Week’s whip-smart wordsmith Rhys James and globe-trotting laughter-master Stephen K Amos as host.
 festival-starts-at: 2019-06-22 19:00:00 Z
 show-starts-at: 2019-06-22 20:15:00 Z
 ticket-price: "£20 - £25"
-ticket-link: https://www.seetickets.com/event/reginald-d-hunter/national-maritime-museum/1241748
+ticket-link: https://www.seetickets.com/event/
 is-sold-out: 
 layout: event
 ---
 
-Spellbinding & brilliantly unpredictable multi-award winning US star Reginald D Hunter headlines Saturday night in the Big Top. Star of Qi, Have I Got News For You & his own hit BBC2 series ‘Reginald D Hunter’s Songs Of The South’, Reg’s searingly honest and hilarious material has garnered him a popular fanbase that spans the generations.
+Host of Channel 4’s groundbreaking ‘The Last Leg’ and British Comedy Award winner Adam Hills makes his Brighton Comedy Garden debut. Adam Hills has fast become one of the most popular comedians in the UK - his combination of positive, uplifting comedy and rampant spontaneity has seen him receive numerous awards, glowing reviews and a legion of fans across the world.  

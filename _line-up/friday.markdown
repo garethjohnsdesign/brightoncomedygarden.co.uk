@@ -3,25 +3,23 @@ title: Friday
 date: 2019-06-21 19:30:00 Z
 position: 2
 acts:
-- name: David O'Doherty
-  image: "/uploads/david-o-doherty.jpg"
-- name: Aisling Bea
-  image: "/uploads/aisling-bea.jpg"
+- name: Henning Wehn
+  image: "/uploads/henning-wehn.jpg"
+- name: Tom Allen
+  image: "/uploads/tom-allen.jpg"
+- name: Rachel Parris
+  image: "/uploads/rachel-parris.jpg"
 - name: Ed Gamble
   image: "/uploads/ed-gamble.jpg"
-- name: Daniel Kitson
-  image: "/uploads/daniel-kitson-gcf.jpg"
-quote: When a stand up gig goes this well, you do get a sense of how religions are
-  started
-quote-cite: The Guardian
-secondary-text: |-
-  Joining David is a supporting line-up chock-a-block with greatness with British Comedy Award winner and 8 Out Of 10 Cats team captain Aisling Bea, Mock The Week’s plucky scamp Ed Gamble and the inimitable Daniel Kitson as host.
+quote: Very entertaining and very accessible
+quote-cite: The Scotsman
+secondary-text: Joining Henning is an all-star supporting line-up with the acerbic wit and riotous storytelling of Royal Variety Performance star Tom Allen, the viral sensation and Mash Report star Rachel Parris and Mock The Week’s plucky scamp Ed Gamble as host.
 festival-starts-at: 2019-06-21 18:00:00 Z
 show-starts-at: 2019-06-21 19:30:00 Z
 ticket-price: "£20 - £25"
-ticket-link: https://www.seetickets.com/event/david-o-doherty/national-maritime-museum/1241736
-is-sold-out: true
+ticket-link: https://www.seetickets.com/
+is-sold-out: false
 layout: event
 ---
 
-The Lidl Enya, Broken Bublé, Live At The Apollo star and bona-fide Greenwich Comedy Festival favourite David O’Doherty returns to headline the Big Top with talking and songs played on a crappy keyboard from 1986.
+Self styled German Comedy Ambassador Henning Wehn headlines a huge Friday night show at Brighton Comedy Garden. Expect a hit filled set from the Would I Lie To You star packed with inimitable teutonic jolliness.

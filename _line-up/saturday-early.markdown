@@ -1,28 +1,25 @@
 ---
 title: Saturday Early
-date: 2019-06-22 14:00:00 Z
+date: 2019-06-22 15:45:00 Z
 position: 3
 acts:
-- name: Milton Jones
-  image: "/uploads/milton-jones.jpg"
 - name: Sara Pascoe
-  image: "/uploads/sarapascoe5.jpg"
-- name: Shappi Khorsandi
-  image: "/uploads/shappi-khorsandi.jpg"
-- name: 'Carl Donnelly '
-  image: "/uploads/carl-donnelly1.jpg"
-quote: Pun-derful Jones leaves the audience gagging for more
-quote-cite: Metro
-secondary-text: "Joining Milton is a dazzling supporting cast with very special guest
-  - the multi-award-winning Sara Pascoe, acclaimed Radio 4 favourite Shappi Khorsandi
-  and the brilliant Carl Donnelly as host.\n\n**Please note** - Carl Donnelly replaces
-  Stephen K Amos on this show. "
-festival-starts-at: 2019-06-22 13:00:00 Z
-show-starts-at: 2019-06-22 14:00:00 Z
+  image: "/uploads/sara-pascoe.jpg"
+- name: Bridget Christie
+  image: "/uploads/bridget-christie.jpg"
+- name: Zoe Lyons
+  image: "/uploads/zoe-lyons.jpg"
+- name: Ivo Graham
+  image: "/uploads/ivo-graham.jpg"
+quote: She is a comic in her prime
+quote-cite: The Times
+secondary-text: Joining Sara is a scintillating supporting line-up with Edinburgh Comedy Award and Rose D’or winner Bridget Christie, quick-fire Radio 4 regular Zoe Lyons and the charming Mock The Week-er Ivo Graham as host.
+festival-starts-at: 2019-06-22 14:45:00 Z
+show-starts-at: 2019-06-22 15:45:00 Z
 ticket-price: "£20 - £25"
-ticket-link: https://www.seetickets.com/event/milton-jones/national-maritime-museum/1241744
+ticket-link: https://www.seetickets.com/event/
 is-sold-out: false
 layout: event
 ---
 
-Fast, absurd and very (very) funny one-liner slinger Milton Jones heads to Greenwich Comedy Festival with an astonishingly good line-up in tow. Star of Mock The Week, Live At The Apollo and wearer of the finest loud shirts in comedy - don’t miss this furiously funny genius live in the Big Top.
+The multi-award-winning comedian and star of Live at The Apollo, Mock the Week, QI and 8 Out of 10 Cats, Sara Pascoe heads to the Big Top in Preston Park to headline an all-killer line-up in the Big Top.

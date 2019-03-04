@@ -2,18 +2,18 @@ header-full:
   - title: Line-up
     url: /line-up/
     sublinks:
-      - title: All
-        url: /line-up/#all
-      - title: Wednesday 6 June
-        url: /line-up/#wednesday6june
-      - title: Thursday 7 June
-        url: /line-up/#thursday7june
-      - title: Friday 8 June
-        url: /line-up/#friday8june
-      - title: Saturday 9 June
-        url: /line-up/#saturday9june
-      - title: Sunday 10 June
-        url: /line-up/#sunday10june
+      - title: Wednesday 19 June
+        url: /line-up/wednesday
+      - title: Thursday 20 June
+        url: /line-up/thursday
+      - title: Friday 21 June
+        url: /line-up/friday
+      - title: Saturday 22 June — Day
+        url: /line-up/saturday-early
+      - title: Saturday 22 June — Night
+        url: /line-up/saturday-late
+      - title: Sunday 23 June
+        url: /line-up/sunday
 
   - title: About
     url: /about/
@@ -36,18 +36,18 @@ header-short:
   - title: Line-up
     url: #
     sublinks:
-      - title: All
-        url: /line-up/#all
-      - title: Wednesday 6 June
-        url: /line-up/#wednesday6june
-      - title: Thursday 7 June
-        url: /line-up/#thursday7june
-      - title: Friday 8 June
-        url: /line-up/#friday8june
-      - title: Saturday 9 June
-        url: /line-up/#saturday9june
-      - title: Sunday 10 June
-        url: /line-up/#sunday10june
+      - title: Wednesday 19 June
+        url: /line-up/wednesday
+      - title: Thursday 20 June
+        url: /line-up/thursday
+      - title: Friday 21 June
+        url: /line-up/friday
+      - title: Saturday 22 June — Day
+        url: /line-up/saturday-early
+      - title: Saturday 22 June — Night
+        url: /line-up/saturday-late
+      - title: Sunday 23 June
+        url: /line-up/sunday
 
   - title: Info
     url: #
@@ -63,4 +63,4 @@ header-short:
 
   - title: Tickets
     url: /tickets/
-    class: button hollow margin-left-2
+    class: button hollow margin-left-1
