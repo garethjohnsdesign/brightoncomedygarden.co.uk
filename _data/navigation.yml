@@ -31,7 +31,7 @@ header-full:
 
   - title: Tickets
     url: /tickets/
-    class: button hollow large margin-left-1
+    class: button large margin-left-1
 
 
 header-short:

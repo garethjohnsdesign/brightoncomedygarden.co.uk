@@ -334,3 +334,7 @@ background-color: transparent;
   @include padding(3, 3, 3, 3);
   }
 }
+
+.tabs-title > a:hover {
+color: $secondary-color;
+}

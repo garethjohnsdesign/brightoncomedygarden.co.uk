@@ -4976,7 +4976,7 @@ ul.no-bullet, ol.no-bullet {
   [data-whatinput='mouse'] .button {
     outline: 0; }
   .button:hover, .button:focus {
-    background-color: #d96f00;
+    background-color: #041f4a;
     color: #fefefe; }
   .button.tiny {
     font-size: 0.6rem; }
@@ -6880,7 +6880,7 @@ html.is-reveal-open {
   float: left; }
   .tabs-title > a {
     display: block;
-    padding: 1.25rem 1.5rem;
+    padding: 1.25rem 1rem;
     font-size: 1.1111111111rem;
     line-height: 1;
     color: #FF8300; }
@@ -9292,3 +9292,6 @@ background-color: transparent;
       padding-right: 3rem !important;
       padding-bottom: 3rem !important;
       padding-left: 3rem !important; } }
+
+.tabs-title > a:hover {
+  color: #041f4a; }
