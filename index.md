@@ -17,7 +17,7 @@ carousel:
   image: "/uploads/alan-davies.jpg"
   subheader: One of the best stand-up comics out there — The Guardian
   is-sold-out: false
-  line-up: Sunday Early
+  line-up: Sunday
 - name: Adam Hills
   image: "/uploads/adam-hills.jpg"
   subheader: Hills delivers stand-up so effortlessly brilliant — The Guardian
