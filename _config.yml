@@ -38,7 +38,7 @@ kramdown:
   hard_wrap: false
 highlighter: rouge
 company: 57 Festivals Ltd
-event-span: "19 - 23 June '19"
+event-span: "19-23 June '19"
 event-address: Preston Park, Brighton BN1 6SD
 event-address-short: Preston Park
 company-registration: 06840256
