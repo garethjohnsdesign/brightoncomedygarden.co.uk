@@ -3,26 +3,23 @@ title: Wednesday
 date: 2019-06-19 19:30:00 Z
 position: 1
 acts:
-- name: Rob Delaney
-  image: "/uploads/rob-delaney.jpg"
-- name: Joe Wilkinson
-  image: "/uploads/joe-wilkinson2.jpg"
-- name: Zoe Lyons
-  image: "/uploads/zoe-lyons.jpg"
-- name: Fin Taylor
-  image: "/uploads/fin-taylor.jpg"
-quote: Sharp and bitingly funny
-quote-cite: Time Out
-secondary-text: Joining Rob is a unmissable supporting line-up with 8 Out Of 10 Cats
-  Does Countdown’s favourite oddball Joe Wilkinson making his Greenwich Comedy Festival
-  debut, Live At The Apollo and Mock The Week regular Zoe Lyons and the fiercely funny
-  Fin Taylor as host.
+- name: Alan Davies 
+  image: "/uploads/alan-davies.jpg"
+- name: Ed Byrne
+  image: "/uploads/ed-byrne.jpg"
+- name: Suzi Ruffell
+  image: "/uploads/suzi-ruffell.jpg"
+- name: Kiri Pritchard-Mclean
+  image: "/uploads/kiri-pritchard-mclean-02.jpg"
+quote: One of the best stand-up comics out there... packed with deft silliness and shrewd observation
+quote-cite: The Guardian
+secondary-text: Joining Alan is an astounding line-up featuring observational comedy master and Mock The Week regular Ed Byrne, flawless stand-up machine Suzi Ruffell and Have I Got News For You star Kiri Pritchard-Mclean as host.
 festival-starts-at: 2019-06-19 18:00:00 Z
 show-starts-at: 2019-06-19 19:30:00 Z
 ticket-price: "£20 - £25"
-ticket-link: https://www.seetickets.com/event/rob-delaney/national-maritime-museum/1242622
+ticket-link: https://www.seetickets.com
 is-sold-out: false
 layout: event
 ---
 
-US stand-up sensation, co-star and co-writer of Channel 4’s multi-award-winning hit comedy ‘Catastrophe’ Rob Delaney headlines the opening night of Greenwich Comedy Festival’s 10th edition. Star of Have I Got News For You, Room 101 and most recently the huge Deadpool 2, don’t miss this rare date from this 'jaw-snappingly funny' wonder.
+Alan Davies is best known as the much-lauded resident dunderhead on QI, and charming but reticent crime solver Jonathan Creek. Davies’s virtuosic story-telling and whip-smart funny bones combine as he heads to the Big Top in Preston Park.

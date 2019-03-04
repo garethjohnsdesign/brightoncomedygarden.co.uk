@@ -387,6 +387,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/alan-davies.jpg": {
+		"ft": 16384,
+		"iS": 803383,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/alan-davies.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/andrew-maxwell.jpg": {
 		"ft": 16384,
 		"iS": 313805,
@@ -687,6 +698,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/kiri-pritchard-mclean-02.jpg": {
+		"ft": 16384,
+		"iS": 1069017,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/kiri-pritchard-mclean-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/kiri-pritchard-mclean.jpg": {
