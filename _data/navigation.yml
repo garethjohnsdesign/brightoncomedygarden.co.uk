@@ -2,6 +2,8 @@ header-full:
   - title: Line-up
     url: /line-up/
     sublinks:
+      - title: All
+        url: /line-up/
       - title: Wednesday 19 June
         url: /line-up/wednesday
       - title: Thursday 20 June

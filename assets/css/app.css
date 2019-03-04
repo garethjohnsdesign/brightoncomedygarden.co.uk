@@ -1368,12 +1368,12 @@ img {
 textarea {
   height: auto;
   min-height: 50px;
-  border-radius: 4px; }
+  border-radius: 3px; }
 
 select {
   box-sizing: border-box;
   width: 100%;
-  border-radius: 4px; }
+  border-radius: 3px; }
 
 .map_canvas img,
 .map_canvas embed,
@@ -1387,7 +1387,7 @@ button {
   padding: 0;
   appearance: none;
   border: 0;
-  border-radius: 4px;
+  border-radius: 3px;
   background: transparent;
   line-height: 1;
   cursor: auto; }
@@ -4790,7 +4790,7 @@ kbd {
   background-color: #f5f5f5;
   font-family: Consolas, "Liberation Mono", Courier, monospace;
   color: #333333;
-  border-radius: 4px; }
+  border-radius: 3px; }
 
 .subheader {
   margin-top: 0.2rem;
@@ -4931,7 +4931,7 @@ ul.no-bullet, ol.no-bullet {
   margin: 0 0 1rem 0;
   padding: 0.85em 1em;
   border: 1px solid transparent;
-  border-radius: 4px;
+  border-radius: 3px;
   transition: background-color 0.25s ease-out, color 0.25s ease-out;
   font-family: inherit;
   font-size: 0.9rem;
@@ -5262,7 +5262,7 @@ textarea {
   margin: 0 0 0.8888888889rem;
   padding: 0.4444444444rem;
   border: 1px solid #FF8300;
-  border-radius: 4px;
+  border-radius: 3px;
   background-color: transparent;
   box-shadow: 0;
   font-family: inherit;
@@ -5294,7 +5294,7 @@ textarea[readonly] {
 [type='submit'],
 [type='button'] {
   appearance: none;
-  border-radius: 4px; }
+  border-radius: 3px; }
 
 input[type='search'] {
   box-sizing: border-box; }
@@ -5348,9 +5348,9 @@ label {
   margin-bottom: 0.8888888889rem;
   align-items: stretch; }
   .input-group > :first-child, .input-group > :first-child.input-group-button > * {
-    border-radius: 4px 0 0 4px; }
+    border-radius: 3px 0 0 3px; }
   .input-group > :last-child, .input-group > :last-child.input-group-button > * {
-    border-radius: 0 4px 4px 0; }
+    border-radius: 0 3px 3px 0; }
 
 .input-group-label, .input-group-field, .input-group-button, .input-group-button a,
 .input-group-button input,
@@ -5419,7 +5419,7 @@ select {
   padding: 0.4444444444rem;
   appearance: none;
   border: 1px solid #FF8300;
-  border-radius: 4px;
+  border-radius: 3px;
   background-color: #fefefe;
   font-family: inherit;
   font-size: 0.8888888889rem;
@@ -5478,10 +5478,10 @@ select {
     cursor: not-allowed; }
 
 .accordion-item:first-child > :first-child {
-  border-radius: 4px 4px 0 0; }
+  border-radius: 3px 3px 0 0; }
 
 .accordion-item:last-child > :last-child {
-  border-radius: 0 0 4px 4px; }
+  border-radius: 0 0 3px 3px; }
 
 .accordion-title {
   position: relative;
@@ -5494,7 +5494,7 @@ select {
   color: #FF8300; }
   :last-child:not(.is-active) > .accordion-title {
     border-bottom: 1px solid #f5f5f5;
-    border-radius: 0 0 4px 4px; }
+    border-radius: 0 0 3px 3px; }
   .accordion-title:hover, .accordion-title:focus {
     background-color: #f5f5f5; }
   .accordion-title::before {
@@ -5677,7 +5677,7 @@ select {
   margin: 0 0 1rem 0;
   padding: 1rem;
   border: 1px solid rgba(51, 51, 51, 0.25);
-  border-radius: 4px;
+  border-radius: 3px;
   background-color: white;
   color: #041f4a; }
   .callout > :first-child {
@@ -5987,7 +5987,7 @@ select {
   padding: 1rem;
   visibility: hidden;
   border: 1px solid #a6a6a6;
-  border-radius: 4px;
+  border-radius: 3px;
   background-color: #F9F7F2;
   font-size: 1rem; }
   .dropdown-pane.is-opening {
@@ -6193,7 +6193,7 @@ select {
 .label {
   display: inline-block;
   padding: 0.33333rem 0.5rem;
-  border-radius: 4px;
+  border-radius: 3px;
   font-size: 0.8rem;
   line-height: 1;
   white-space: nowrap;
@@ -6752,7 +6752,7 @@ html.is-reveal-open {
   display: none;
   padding: 1rem;
   border: 1px solid #a6a6a6;
-  border-radius: 4px;
+  border-radius: 3px;
   background-color: #fefefe;
   position: relative;
   top: 100px;
@@ -8244,7 +8244,7 @@ ol.list-upper-roman {
     width: 2rem;
     height: 4px;
     background-color: #fefefe;
-    border-radius: 4px;
+    border-radius: 3px;
     position: absolute;
     transition-property: transform;
     transition-duration: 0.15s;
@@ -8917,7 +8917,7 @@ Single-colored icons can be modified like so:
 }
 ========================================== */
 .icon-socials {
-  font-size: 2rem; }
+  font-size: 1.5rem; }
 
 .icon-sponsors {
   font-size: 3rem; }
@@ -9102,7 +9102,7 @@ p a {
     display: block;
     content: "";
     width: 100%;
-    padding-top: 66.6666666667%; }
+    padding-top: 71.4285714286%; }
   .image--default .content {
     transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
     z-index: 1;
@@ -9166,18 +9166,18 @@ p a {
   background-color: rgba(4, 31, 74, 0.95); }
 
 .navigation {
-  padding-top: 1rem !important;
-  padding-right: 1rem !important;
-  padding-bottom: 1rem !important;
-  padding-left: 1rem !important; }
+  padding-top: 0.5rem !important;
+  padding-right: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+  padding-left: 0.5rem !important;
+  border-bottom: 1px solid #041f4a;
+  z-index: 12; }
   @media print, screen and (min-width: 40em) {
     .navigation {
       padding-top: 2rem !important;
       padding-right: 2rem !important;
-      padding-bottom: 2rem !important;
+      padding-bottom: 1rem !important;
       padding-left: 2rem !important; } }
-  .navigation .cell {
-    z-index: 13; }
   .navigation a {
     color: #041f4a; }
     .navigation a:hover {
@@ -9224,3 +9224,21 @@ p a {
   width: 100%;
   height: 100%;
   z-index: 12; }
+
+.vendor__description {
+  padding-top: 1rem !important;
+  padding-right: 1rem !important;
+  padding-bottom: 1rem !important;
+  padding-left: 1rem !important; }
+  @media print, screen and (min-width: 64em) {
+    .vendor__description {
+      padding-top: 2rem !important;
+      padding-right: 2rem !important;
+      padding-bottom: 2rem !important;
+      padding-left: 2rem !important; } }
+  @media screen and (min-width: 90em) {
+    .vendor__description {
+      padding-top: 3rem !important;
+      padding-right: 3rem !important;
+      padding-bottom: 3rem !important;
+      padding-left: 3rem !important; } }
