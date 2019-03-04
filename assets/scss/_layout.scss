@@ -173,12 +173,6 @@ p a {
 // 6. Layout
 // ---------
 
-main {
-  @include breakpoint(small only) {
-    @include padding(1,1,1,1);
-  }
-}
-
 .image--portrait {
   @include aspect-ratio (4, 6);
   background-size: cover; 
@@ -283,7 +277,7 @@ url('/assets/img/arrow-right@3x.png') 3x
 
 .home .navigation {
   @include links ($secondary-color, $primary-color);
-  @include breakpoint(medium) {
+  @include breakpoint(xxlarge) {
   position: absolute;
   top: 0;
   left: 0;

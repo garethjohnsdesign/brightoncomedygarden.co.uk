@@ -4640,19 +4640,19 @@ h6, .h6 {
 
 h1, .h1 {
   font-size: 1.8888888889rem;
-  line-height: 1.2;
+  line-height: 1;
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
 h2, .h2 {
   font-size: 1.6666666667rem;
-  line-height: 1.2;
+  line-height: 1;
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
 h3, .h3 {
   font-size: 1.5555555556rem;
-  line-height: 1.2;
+  line-height: 1;
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
@@ -9047,13 +9047,6 @@ p a {
 .sans-bold {
   font-family: "Demibold", sans-serif; }
 
-@media screen and (max-width: 39.99875em) {
-  main {
-    padding-top: 1rem !important;
-    padding-right: 1rem !important;
-    padding-bottom: 1rem !important;
-    padding-left: 1rem !important; } }
-
 .image--portrait {
   position: relative;
   background-size: cover;
@@ -9199,7 +9192,7 @@ p a {
   .home .navigation a:hover {
     color: #FF8300; }
 
-@media print, screen and (min-width: 40em) {
+@media screen and (min-width: 90em) {
   .home .navigation {
     position: absolute;
     top: 0;
