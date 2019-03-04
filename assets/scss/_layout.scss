@@ -117,7 +117,7 @@ html.is-animating .swup-transition-color {
 .primary-background-colour {
   background-color: get-color(primary);
   color: $white;
-  @include links($white, $black)
+  @include links($white, $secondary-color)
 }
 
 
@@ -140,6 +140,10 @@ html.is-animating .swup-transition-color {
 .white {
   color: $white;
   @include links($white, $primary-color);
+}
+
+.white:hover {
+  color: $primary-color;
 }
 
 // 5. Typography
@@ -242,7 +246,7 @@ url('/assets/img/arrow-right@3x.png') 3x
 
 .acts {
  .content:hover {
-  background-color: rgba($secondary-color, 1);
+  background-color: rgba($secondary-color, 0.95);
  }
 }
 

@@ -6019,7 +6019,7 @@ select {
   outline: 0; }
 
 .dropdown.menu > li > a {
-  padding: 0.7rem 0.7rem; }
+  padding: 0.5rem 0.7rem; }
 
 .dropdown.menu > li.is-active > a {
   background: transparent;
@@ -6158,7 +6158,7 @@ select {
   border: 1px solid #a6a6a6;
   background: #fefefe; }
   .dropdown .is-dropdown-submenu a {
-    padding: 0.7rem 0.7rem; }
+    padding: 0.5rem 0.7rem; }
   .is-dropdown-submenu .is-dropdown-submenu {
     margin-top: -1px; }
   .is-dropdown-submenu > li {
@@ -9004,7 +9004,7 @@ html.is-animating .swup-transition-color {
   .primary-background-colour a {
     color: #fefefe; }
     .primary-background-colour a:hover {
-      color: #333333; }
+      color: #041f4a; }
 
 .secondary-background-colour {
   background-color: #041f4a;
@@ -9027,6 +9027,9 @@ html.is-animating .swup-transition-color {
     color: #fefefe; }
     .white a:hover {
       color: #FF8300; }
+
+.white:hover {
+  color: #FF8300; }
 
 .underline {
   padding-bottom: 2px;
@@ -9160,7 +9163,7 @@ p a {
   cursor: -webkit-image-set(url("/assets/img/arrow-right.png") 1x, url("/assets/img/arrow-right@2x.png") 2x, url("/assets/img/arrow-right@3x.png") 3x) 16 16, auto !important; }
 
 .acts .content:hover {
-  background-color: #041f4a; }
+  background-color: rgba(4, 31, 74, 0.95); }
 
 .navigation {
   padding-top: 1rem !important;

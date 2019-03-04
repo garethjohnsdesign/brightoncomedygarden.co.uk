@@ -5,7 +5,7 @@ position: 5
 day: Sunday
 acts:
 - name: David O’Doherty
-  image: "/uploads/david-o-doherty.jpg"
+  image: "/uploads/david-o-doherty-02.jpg"
 - name: Tim Key
   image: "/uploads/tim-key.jpg"
 - name: Rose Matafeo
