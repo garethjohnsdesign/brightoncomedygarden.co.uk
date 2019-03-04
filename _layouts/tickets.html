@@ -1,17 +1,15 @@
 ---
 layout: default
 ---
-
-<section class="tickets padding-bottom-3">
 <div class="grid-container">
   {% assign collection = site.line-up | group_by_exp: "item", "item.date | date: '%A %-d %b'" %}
   {% for day in collection %}
   
   <!-- Day -->
-  <div class="grid-x grid-padding-y align-center text-lowercase show-for-medium">
-  <div class="shrink cell">
-    <h3>{{ day.name }}</h3>
-  </div>
+  <div class="grid-x padding-top-2 align-center text-lowercase show-for-medium">
+    <div class="shrink cell">
+      <h3>{{ day.name }}</h3>
+    </div>
   </div>
   <!-- End Day -->
   
@@ -22,9 +20,9 @@ layout: default
   
   <!-- Panel -->
   <div class="grid-x grid-margin-x grid-margin-y">
-  <div class="small-12 cell">
+  <div class="small-12 cell padding-top-1">
     
-  <div class="grid-x grid-padding-x grid-padding-y callout">
+  <div class="grid-x grid-padding-x callout">
 
           
   <!-- Time -->
@@ -57,7 +55,7 @@ layout: default
             {% endfor %}
           </div>
           
-          <div class="small-12 large-4 cell text-lowercase text-center large-text-left">
+          <div class="small-12 large-4 cell text-lowercase text-center large-text-left padding-top-1">
             {% for act in day.acts %}
               <h3 class="margin-bottom-0">{{ act.name }}</h3>
             {% endfor %}
@@ -93,4 +91,3 @@ layout: default
   {%endfor%}
   {%endfor%}
 </div>
-</section>
