@@ -338,7 +338,7 @@
 		"oAP": "/_uploads/adam-hills.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/alan-davies.jpg": {
@@ -349,7 +349,7 @@
 		"oAP": "/_uploads/alan-davies.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/andrew-maxwell.jpg": {
@@ -360,7 +360,7 @@
 		"oAP": "/_uploads/andrew-maxwell.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/bridget-christie.jpg": {
@@ -371,7 +371,7 @@
 		"oAP": "/_uploads/bridget-christie.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/david-o-doherty.jpg": {
@@ -382,7 +382,7 @@
 		"oAP": "/_uploads/david-o-doherty.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/desiree-burch.jpg": {
@@ -393,7 +393,7 @@
 		"oAP": "/_uploads/desiree-burch.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/ed-byrne.jpg": {
@@ -404,7 +404,7 @@
 		"oAP": "/_uploads/ed-byrne.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/ed-gamble-2.jpg": {
@@ -415,7 +415,7 @@
 		"oAP": "/_uploads/ed-gamble-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/ed-gamble.jpg": {
@@ -426,7 +426,7 @@
 		"oAP": "/_uploads/ed-gamble.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/Equality and Diverstiy Monitoring Form.docx": {
@@ -445,7 +445,7 @@
 		"oAP": "/_uploads/gallery-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/gallery-02.jpg": {
@@ -456,7 +456,7 @@
 		"oAP": "/_uploads/gallery-02.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/gallery-03.jpg": {
@@ -467,7 +467,7 @@
 		"oAP": "/_uploads/gallery-03.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/gallery-04.jpg": {
@@ -478,7 +478,7 @@
 		"oAP": "/_uploads/gallery-04.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/gallery-05.jpg": {
@@ -489,7 +489,7 @@
 		"oAP": "/_uploads/gallery-05.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/gallery-06.jpg": {
@@ -500,7 +500,7 @@
 		"oAP": "/_uploads/gallery-06.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/GCF18-FoH-Job-Application.pdf": {
@@ -519,7 +519,7 @@
 		"oAP": "/_uploads/henning-wehn.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/ivo-graham.jpg": {
@@ -530,7 +530,7 @@
 		"oAP": "/_uploads/ivo-graham.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/john-robins.jpg": {
@@ -539,6 +539,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/john-robins.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/kiri-pritchard-mclean-01.jpg": {
+		"ft": 16384,
+		"iS": 659896,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/kiri-pritchard-mclean-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -553,39 +564,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
-		"q": 100
-		},
-	"/_uploads/kiri-pritchard-mclean.jpg": {
-		"ft": 16384,
-		"iS": 659896,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/kiri-pritchard-mclean.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/nina-conti.jpg": {
-		"ft": 16384,
-		"iS": 880093,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/nina-conti.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/nish-kumar.jpg": {
-		"ft": 16384,
-		"iS": 286716,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/nish-kumar.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/phil-wang.jpg": {
@@ -665,23 +643,23 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/stephen-k-amos-01.jpg": {
+		"ft": 16384,
+		"iS": 243608,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/stephen-k-amos-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/stephen-k-amos-02.jpg": {
 		"ft": 16384,
 		"iS": 1074639,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/stephen-k-amos-02.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/stephen-k-amos.jpg": {
-		"ft": 16384,
-		"iS": 243608,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/stephen-k-amos.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

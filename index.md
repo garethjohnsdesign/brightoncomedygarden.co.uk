@@ -60,7 +60,7 @@ featured:
   is-sold-out: 
   line-up: Saturday Early
 - name: Stephen K Amos
-  image: "/uploads/stephen-k-amos.jpg"
+  image: "/uploads/stephen-k-amos-01.jpg"
   subheader: 
   is-sold-out: true
   line-up: Saturday Late
