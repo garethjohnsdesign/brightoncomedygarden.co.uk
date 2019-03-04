@@ -242,7 +242,7 @@ url('/assets/img/arrow-right@3x.png') 3x
 
 .acts {
  .content:hover {
-  background-color: rgba($primary-color, 0.75);
+  background-color: rgba($primary-color, 1);
  }
 }
 
@@ -257,7 +257,7 @@ url('/assets/img/arrow-right@3x.png') 3x
   .cell {
 	z-index: 13; 
   }
-  @include links ($black, $primary-color)
+  @include links ($secondary-color, $primary-color)
   a {
     font-family: $sans-bold;
   }
@@ -275,7 +275,7 @@ url('/assets/img/arrow-right@3x.png') 3x
 // -------
 
 .home .navigation {
-  @include links ($black, $primary-color);
+  @include links ($secondary-color, $primary-color);
   @include breakpoint(medium) {
   position: absolute;
   top: 0;

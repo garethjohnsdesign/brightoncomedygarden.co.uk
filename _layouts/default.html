@@ -11,13 +11,13 @@ layout: compress
 
 <body class="{{page.layout | slugify}}">
 
-<div class="off-canvas position-left" id="offCanvas" data-off-canvas data-transition="overlap">
+<div class="off-canvas position-right" id="offCanvas" data-off-canvas data-transition="overlap">
 {% include off-canvas/menu.html %}
 </div>
 
 <div class="off-canvas-content" id="main" data-off-canvas-content>
 <!-- Navigation -->  
-{% include site/navigation-original.html %}
+{% include site/navigation.html %}
 <!-- End Navigation -->
 
 <!-- Content -->
