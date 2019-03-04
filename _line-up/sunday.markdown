@@ -12,9 +12,9 @@ acts:
   image: "/uploads/rose-matafeo.jpg"
 - name: John Robins
   image: "/uploads/john-robins.jpg"
-quote: 
-quote-cite: 
-secondary-text: 
+quote: When a stand up gig goes this well, you do get a sense of how religions are started
+quote-cite: The Guardian
+secondary-text: Joining David is an blistering line-up with a very special guest to be announced plus cult poet/comic Tim Key, star of Alan Partridge and Taskmaster, 2018 Edinburgh Comedy Award winner Rose Matafeo and podcast hero and all round ‘hammer-legend’ John Robins as host.
 festival-starts-at: 2019-06-23 18:00:00 Z
 show-starts-at: 2019-06-23 19:30:00 Z
 ticket-price: "£20 - £25"
