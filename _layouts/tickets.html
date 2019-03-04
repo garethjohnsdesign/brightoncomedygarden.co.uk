@@ -22,7 +22,7 @@ layout: default
   <div class="grid-x grid-margin-x grid-margin-y">
   <div class="small-12 cell padding-top-1">
     
-  <div class="grid-x grid-padding-x callout">
+  <div class="grid-x grid-padding-x grid-padding-y callout">
 
           
   <!-- Time -->
@@ -73,9 +73,9 @@ layout: default
             
       <div class="shrink cell hide-for-large padding-top-2">
       {% if day.is-sold-out == true %}
-      <a class="button large expanded">Sold Out</a>
+      <a class="button expanded">Sold Out</a>
       {% else %}
-      <a class="button large expanded" href="{{day.ticket-link}}" target="_blank">Buy Now</a>
+      <a class="button expanded" href="{{day.ticket-link}}" target="_blank">Buy Now</a>
       {% endif %} 
       </div>
       
