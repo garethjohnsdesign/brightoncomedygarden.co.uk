@@ -41,12 +41,20 @@
 		"oAP": "/_data/navigation.yml",
 		"oF": 0
 		},
-	"/_includes/blocks/excerpt.html": {
+	"/_includes/blocks/excerpt--act.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_includes/blocks/excerpt.html",
+		"oAP": "/_includes/blocks/excerpt--act.html",
+		"oF": 0
+		},
+	"/_includes/blocks/excerpt--vendor.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/blocks/excerpt--vendor.html",
 		"oF": 0
 		},
 	"/_includes/images/interchange-img-small-12-medium-12-cell.html": {
@@ -575,6 +583,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/phil-wang-02.jpg": {
+		"ft": 16384,
+		"iS": 953386,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/phil-wang-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/phil-wang.jpg": {

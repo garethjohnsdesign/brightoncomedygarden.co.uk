@@ -46,7 +46,7 @@ layout: default
   <div class="cell acts">
     <a href="/line-up/{{act.line-up | slugify}}"> 
       {% assign image = act.image %}
-      {% include blocks/excerpt.html %}    
+      {% include blocks/excerpt--act.html %}    
     </a>
   </div>
   {% endfor %}
@@ -70,7 +70,7 @@ layout: default
   <div class="cell acts">
     <a href="/line-up/{{act.line-up | slugify}}"> 
       {% assign image = act.image %}
-      {% include blocks/excerpt.html %}    
+      {% include blocks/excerpt--act.html %}    
     </a>
   </div>
   {% endfor %}

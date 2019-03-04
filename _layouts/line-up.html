@@ -26,7 +26,7 @@ layout: default
           <div class="cell acts">
             <a href="{{ day.url }}">
             {% assign image = act.image %}
-            {% include blocks/excerpt.html %}
+            {% include blocks/excerpt--act.html %}
             </a>
           </div>
           {% endfor %}
@@ -45,7 +45,7 @@ layout: default
         <div class="cell acts">
           <a href="{{ day.url }}">
           {% assign image = act.image %}
-          {% include blocks/excerpt.html %}
+          {% include blocks/excerpt--act.html %}
           </a>
         </div>
         {% endfor %}

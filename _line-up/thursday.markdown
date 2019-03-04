@@ -6,7 +6,7 @@ acts:
 - name: Sean Lock
   image: "/uploads/sean-lock.jpg"
 - name: Phil Wang
-  image: "/uploads/phil-wang.jpg"
+  image: "/uploads/phil-wang-02.jpg"
 - name: Desiree Burch
   image: "/uploads/desiree-burch.jpg"
 - name: Andrew Maxwell

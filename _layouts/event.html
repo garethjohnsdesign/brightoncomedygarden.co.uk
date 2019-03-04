@@ -1,13 +1,11 @@
 ---
 layout: default
 ---
-
-<section class="event">
   
 <!-- Date -->
-<div class="grid-x grid-padding-y align-center event__title">
+<div class="grid-x grid-padding-y align-center">
   <div class="small-12 cell text-center">
-    <div class=" h3 text-lowercase">{{ page.date | date: "%A %-d %b" }}<span class="primary-color"> — </span>{{ page.date | date: "%l:%M%p" }}</div>
+    <div class="h3 text-lowercase">{{ page.date | date: "%A %-d %b" }}<span class="primary-color"> — </span>{{ page.date | date: "%l:%M%p" }}</div>
     {% if page.is-sold-out == true %}<h4>Sold Out</h4>{% endif %}
   </div>
 </div>
@@ -32,7 +30,7 @@ layout: default
 {% for act in page.acts %}
 <div class="cell">
       {% assign image = act.image %}
-      {% include blocks/excerpt.html %}    
+      {% include blocks/excerpt--act.html %}    
 </div>
 {% endfor %}
 </div>
@@ -97,7 +95,3 @@ layout: default
 <!-- Pagination -->  
 {% include site/pagination.html %}
 <!-- End Pagination -->
-
-</section>
-
-
