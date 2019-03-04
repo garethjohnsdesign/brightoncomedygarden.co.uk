@@ -4,7 +4,7 @@ layout: default
 
 <div class="grid-x">
   <div class="small-12 cell">
-      <div id="greenwich_canvas" class="location__map"></div>    
+    <div id="map" style="width: 100%; height: 20rem" class="margin-bottom-1"></div>
   </div>
 </div>
 
@@ -19,3 +19,20 @@ layout: default
   </div>
 </div>
 
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoiZ2FyZXRoam9obnNkZXNpZ24iLCJhIjoibWRoWDZWUSJ9.n1A58EO10IDrB5yIAKqAPA';
+var map = new mapboxgl.Map({
+container: 'map', // container id
+style: 'mapbox://styles/garethjohnsdesign/cjsrhhqlq0pvu1fmdl07q5hpd', //hosted style id
+center: [-0.146,50.840],
+zoom: 11.14,
+scrollZoom: false
+});
+
+map.addControl(new mapboxgl.NavigationControl());
+
+map.addControl(new MapboxDirections({
+accessToken: mapboxgl.accessToken
+}), 'top-left');
+
+</script>

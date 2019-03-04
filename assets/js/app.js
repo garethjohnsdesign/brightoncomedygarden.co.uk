@@ -12,7 +12,7 @@ $(document).foundation();
 
 
 // 2. Cookies Policy
-// --------------------
+// -----------------
 
 $(function() {
   if($.cookie('showed_modal') !== "true") {
@@ -20,18 +20,29 @@ $(function() {
 setTimeout(
   function() 
   {
-    //do something special
 $("#cookiesPolicy").foundation("open");
   }, 2000);
-
-//     $("#cookiesPolicy").foundation("open");
-//     $.cookie('showed_modal', 'true', { expires: 365, path: '/'}); 
-
 
     $.cookie('showed_modal', 'true', { expires: 365 }); 
   }
 });
 
+// 2. Map
+// ------
+
+/*
+$(function() {  
+mapboxgl.accessToken = 'pk.eyJ1IjoiZ2FyZXRoam9obnNkZXNpZ24iLCJhIjoibWRoWDZWUSJ9.n1A58EO10IDrB5yIAKqAPA';
+});
+
+var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/garethjohnsdesign/cjj4c8f7p46ua2roce0wkb7f9', //hosted style id
+    center: [-0.102483, 51.528037],
+    zoom: 11.14,
+    scrollZoom: false
+  });
+*/
 
 // 2. Animate on Scroll
 // --------------------
