@@ -5,9 +5,12 @@ collections:
   line-up:
     title: Line-up
     output: true
+  food-and-drink:
+    title: Food + Drink
+    output: false
   posts:
     title: Posts
-    output: true
+    output: false
   uploads:
     title: Uploads
     output: false
