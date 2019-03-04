@@ -198,7 +198,7 @@ main {
   background-size: cover; 
   background-position: 50%;
  .content {
-  background-color: rgba($black, 0.05);
+  background-color: rgba($black, 0.075);
   }
 }
 
@@ -283,6 +283,11 @@ url('/assets/img/arrow-right@3x.png') 3x
   width: 100%;
   @include links ($white, $primary-color);
   }
+}
+
+.home .is-dropdown-submenu {
+background-color: transparent;
+border: 0px;
 }
 
 .off-canvas .menu .active > a {
