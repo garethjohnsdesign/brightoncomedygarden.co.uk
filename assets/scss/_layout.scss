@@ -254,7 +254,7 @@ url('/assets/img/arrow-right@3x.png') 3x
 // -------------
 
 .navigation {
-  @include padding(0.5, 0.5, 0.5, 0.5);
+  @include padding(0.25);
   border-bottom: 1px solid $secondary-color;
 	z-index: 12;
   @include breakpoint(medium) {
