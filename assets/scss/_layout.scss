@@ -254,7 +254,7 @@ url('/assets/img/arrow-right@3x.png') 3x
 // -------------
 
 .navigation {
-  @include padding(0.25);
+  @include padding(0.45, 0.45, 0, 0.45);
   border-bottom: 1px solid $secondary-color;
 	z-index: 12;
   @include breakpoint(medium) {
@@ -264,6 +264,10 @@ url('/assets/img/arrow-right@3x.png') 3x
   a {
     font-family: $sans-bold;
   }
+}
+
+.navigation__banner {
+  @include padding(0.45, 0.45, 0.45, 0.45);
 }
 
 .hamburger-inner {

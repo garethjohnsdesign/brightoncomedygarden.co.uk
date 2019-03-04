@@ -26,13 +26,10 @@ container: 'map', // container id
 style: 'mapbox://styles/garethjohnsdesign/cjsrhhqlq0pvu1fmdl07q5hpd', //hosted style id
 center: [-0.146,50.840],
 zoom: 12.14,
-scrollZoom: false
+scrollZoom: false,
+dragPan: false
 });
 
 map.addControl(new mapboxgl.NavigationControl());
-
-map.addControl(new MapboxDirections({
-accessToken: mapboxgl.accessToken
-}), 'top-left');
 
 </script>

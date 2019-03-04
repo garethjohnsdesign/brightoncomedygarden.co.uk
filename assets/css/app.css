@@ -9166,7 +9166,10 @@ p a {
   background-color: rgba(4, 31, 74, 0.95); }
 
 .navigation {
-  padding-top: 0.25rem !important;
+  padding-top: 0.45rem !important;
+  padding-right: 0.45rem !important;
+  padding-bottom: 0rem !important;
+  padding-left: 0.45rem !important;
   border-bottom: 1px solid #041f4a;
   z-index: 12; }
   @media print, screen and (min-width: 40em) {
@@ -9181,6 +9184,12 @@ p a {
       color: #FF8300; }
   .navigation a {
     font-family: "Demibold", sans-serif; }
+
+.navigation__banner {
+  padding-top: 0.45rem !important;
+  padding-right: 0.45rem !important;
+  padding-bottom: 0.45rem !important;
+  padding-left: 0.45rem !important; }
 
 .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
   background-color: #fefefe; }
