@@ -45,7 +45,7 @@ featured:
   is-sold-out: false
   line-up: Sunday
 - name: Rachel Parris
-  image: "/uploads/rachel-parris.jpg"
+  image: "/uploads/rachel-parris-02.jpg"
   subheader: 
   is-sold-out: 
   line-up: Friday
