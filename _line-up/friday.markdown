@@ -8,7 +8,7 @@ acts:
 - name: Tom Allen
   image: "/uploads/tom-allen.jpg"
 - name: Rachel Parris
-  image: "/uploads/rachel-parris.jpg"
+  image: "/uploads/rachel-parris-02.jpg"
 - name: Ed Gamble
   image: "/uploads/ed-gamble.jpg"
 quote: Very entertaining and very accessible
