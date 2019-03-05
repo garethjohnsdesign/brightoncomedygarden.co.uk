@@ -4,7 +4,11 @@ position: 1
 vendors:
 - title: Zoe's Ghana Kitchen
   image: "/uploads/zoes-ghana-kitchen.jpg"
-  description: The acclaimed Zoe's Ghana Kitchen serve up utterly delicious Ghanaian dishes and have been making a huge name for themselves with their amazing jollof fried chicken. Head chef Zoe has been earmarked by Time Out as one of London's top 10 chefs to look out for and has spent years perfecting her beautiful recipes made using only the finest ingredients.
+  description: The acclaimed Zoe's Ghana Kitchen serve up utterly delicious Ghanaian
+    dishes and have been making a huge name for themselves with their amazing jollof
+    fried chicken. Head chef Zoe has been earmarked by Time Out as one of London's
+    top 10 chefs to look out for and has spent years perfecting her beautiful recipes
+    made using only the finest ingredients.
   website: https://www.zoesghanakitchen.co.uk
   social:
     instagram: https://www.instagram.com/ghanakitchen/
@@ -12,7 +16,14 @@ vendors:
     facebook: https://www.facebook.com/zoesghanakitchen
 - title: Kurbside Kitchen
   image: "/uploads/kurbside-kitchen.jpg"
-  description: The amazing William Bacon has consolidated 15 years experience as a chef, with 7 of those years spent travelling the world, into founding Kurbside Kitchen, a wonderful food truck specialising in German frankfurters with gourmet toppings, low and slow cooked meats, Cajun and sweet potato fries and super-food salads. William is particularly proud of Kurbside’s quite frankly ridiculously delicious gourmet hot dogs. They’re made with high quality beef, pork, chorizo or tofu with natural skin to ensure the perfect snap and are served inside a brioche sub, baked daily by their local artisan baker.
+  description: The amazing William Bacon has consolidated 15 years experience as a
+    chef, with 7 of those years spent travelling the world, into founding Kurbside
+    Kitchen, a wonderful food truck specialising in German frankfurters with gourmet
+    toppings, low and slow cooked meats, Cajun and sweet potato fries and super-food
+    salads. William is particularly proud of Kurbside’s quite frankly ridiculously
+    delicious gourmet hot dogs. They’re made with high quality beef, pork, chorizo
+    or tofu with natural skin to ensure the perfect snap and are served inside a brioche
+    sub, baked daily by their local artisan baker.
   website: http://kurbsidekitchen.co.uk
   social:
     instagram: https://www.instagram.com/kurbsidekitchen/
@@ -20,14 +31,24 @@ vendors:
     facebook: https://www.facebook.com/KurbsideKitchen1/
 - title: 3 Little Pigs
   image: "/uploads/three-little-pigs.jpg"
-  description: The 3 Little Pigs Souvlaki philosophy is to use time honoured cooking methods, family recipes and quality produce to make real food with integrity and taste – something that is missing from the Greek/London street food scene. With 25 years’ experience in the customer service and food-service management industry, the time is right to introduce London to The 3 Little Pigs and allow it to experience a tradition that has combined an amazing childhood memory, traditional cooking techniques and a love of BBQ.
+  description: The 3 Little Pigs Souvlaki philosophy is to use time honoured cooking
+    methods, family recipes and quality produce to make real food with integrity and
+    taste – something that is missing from the Greek/London street food scene. With
+    25 years’ experience in the customer service and food-service management industry,
+    the time is right to introduce London to The 3 Little Pigs and allow it to experience
+    a tradition that has combined an amazing childhood memory, traditional cooking
+    techniques and a love of BBQ.
   website: https://www.the3littlepigsldn.com
   social:
     instagram: https://www.instagram.com/3lpsouvlaki/
     twitter: https://twitter.com/3LPSOUVLAKI
 - title: You Bao
   image: "/uploads/you-bao.jpg"
-  description: When Alejandro Sepulveda Parra started planning his street food stall, he knew exactly where to source his inspiration from. The traditional gua bao, also known as steamed bao, a popular Taiwanese street food. Inspired by the huge variety of Taiwanese traditions and flavours and combined with Alejandro’s love for steamed bao buns, You Bao was created.
+  description: When Alejandro Sepulveda Parra started planning his street food stall,
+    he knew exactly where to source his inspiration from. The traditional gua bao,
+    also known as steamed bao, a popular Taiwanese street food. Inspired by the huge
+    variety of Taiwanese traditions and flavours and combined with Alejandro’s love
+    for steamed bao buns, You Bao was created.
   social:
     instagram: https://www.instagram.com/youbaomi/
     twitter: https://twitter.com/youbaomi
