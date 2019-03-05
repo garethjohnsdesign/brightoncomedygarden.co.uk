@@ -1,0 +1,74 @@
+---
+title: Brighton Comedy Garden
+timezone: UTC
+collections:
+  line-up:
+    title: Line-up
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: false
+url: https://www.brightoncomedygarden.co.uk
+description: The first ever Brighton Comedy Garden plants its roots this June with
+  five nights of sensational stand-up in the Big Top paired with street-food, craft
+  beers and more in the glorious Preston Park
+permalink: pretty
+exclude:
+- bower.json
+- Gemfile.lock
+- package.json
+- config.codekit3
+- README*
+- LICENSE*
+- CHANGELOG*
+- node_modules
+- ".gitignore"
+- bower_components
+- assets/scss
+plugins:
+- jekyll-paginate-v2
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+- jekyll/imgix
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+company: 57 Festivals Ltd
+event-span: 19-23 June '19
+event-address: Preston Park, Brighton BN1 6SD
+event-address-short: Preston Park
+company-registration: '06840256'
+company-address: 237 Westcombe Hill, Blackheath, London, United Kingdom, SE3 7DW
+email: info@brightoncomedygarden.co.uk
+subscribe: https://bristolcomedygarden.us8.list-manage.com/subscribe/post?u=4f6c24b1fd6a641ead690d017&amp;id=cc6642ec78
+analytics: 
+logo: "/assets/img/logo.svg"
+per_page: 12
+date_format: "%b %d, %Y"
+future: true
+sponsors:
+  57-festivals: http://www.57festivals.com
+  heineken: https://www.heineken.com/gb/
+  see-tickets: https://www.seetickets.com
+social:
+  facebook: https://www.facebook.com/brightoncomedygarden/
+  instagram: https://www.instagram.com/brightoncomedygarden/
+  twitter: https://twitter.com/brightoncomedygarden/
+compress_html:
+  comments:
+  - "<!-- "
+  - " -->"
+  blanklines: true
+  profile: false
+pagination:
+  enabled: false
+autopages:
+  enabled: false
+imgix:
+  source: brighton-comedy-garden.imgix.net
