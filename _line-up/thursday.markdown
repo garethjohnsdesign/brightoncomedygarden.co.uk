@@ -13,7 +13,9 @@ acts:
   image: "/uploads/andrew-maxwell.jpg"
 quote: He really is rewriting the comedy rulebook
 quote-cite: Time Out
-secondary-text: Joining Sean is an unbeatable supporting line-up with the hugely acclaimed Taskmaster and Netflix star Phil Wang, Live At The Apollo’s fiercely funny Desiree Burch and the rabble-rousing stand-up master Andrew Maxwell as host.
+secondary-text: Joining Sean is an unbeatable supporting line-up with the hugely acclaimed
+  Taskmaster and Netflix star Phil Wang, Live At The Apollo’s fiercely funny Desiree
+  Burch and the rabble-rousing stand-up master Andrew Maxwell as host.
 festival-starts-at: 2019-06-20 18:00:00 Z
 show-starts-at: 2019-06-20 19:30:00 Z
 ticket-price: "£20 - £25"

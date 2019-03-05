@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <div class="grid-container">
   {% assign collection = site.line-up | group_by_exp: "item", "item.date | date: '%A %-d %b'" %}
   {% for day in collection %}

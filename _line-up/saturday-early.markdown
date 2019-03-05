@@ -13,7 +13,9 @@ acts:
   image: "/uploads/ivo-graham.jpg"
 quote: She is a comic in her prime
 quote-cite: The Times
-secondary-text: Joining Sara is a scintillating supporting line-up with Edinburgh Comedy Award and Rose D’or winner Bridget Christie, quick-fire Radio 4 regular Zoe Lyons and the charming Mock The Week-er Ivo Graham as host.
+secondary-text: Joining Sara is a scintillating supporting line-up with Edinburgh
+  Comedy Award and Rose D’or winner Bridget Christie, quick-fire Radio 4 regular Zoe
+  Lyons and the charming Mock The Week-er Ivo Graham as host.
 festival-starts-at: 2019-06-22 14:45:00 Z
 show-starts-at: 2019-06-22 15:45:00 Z
 ticket-price: "£20 - £25"

@@ -13,7 +13,10 @@ acts:
   image: "/uploads/ed-gamble.jpg"
 quote: Very entertaining and very accessible
 quote-cite: The Scotsman
-secondary-text: Joining Henning is an all-star supporting line-up with the acerbic wit and riotous storytelling of Royal Variety Performance star Tom Allen, the viral sensation and Mash Report star Rachel Parris and Mock The Week’s plucky scamp Ed Gamble as host.
+secondary-text: Joining Henning is an all-star supporting line-up with the acerbic
+  wit and riotous storytelling of Royal Variety Performance star Tom Allen, the viral
+  sensation and Mash Report star Rachel Parris and Mock The Week’s plucky scamp Ed
+  Gamble as host.
 festival-starts-at: 2019-06-21 18:00:00 Z
 show-starts-at: 2019-06-21 19:30:00 Z
 ticket-price: "£20 - £25"

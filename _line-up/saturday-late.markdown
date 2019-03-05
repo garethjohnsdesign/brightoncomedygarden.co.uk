@@ -11,9 +11,12 @@ acts:
   image: "/uploads/rhys-james.jpg"
 - name: Stephen K Amos
   image: "/uploads/stephen-k-amos-01.jpg"
-quote: Hills delivers stand-up so effortlessly brilliant you wonder why some comedians even get out of bed
+quote: Hills delivers stand-up so effortlessly brilliant you wonder why some comedians
+  even get out of bed
 quote-cite: The Guardian
-secondary-text: Joining Adam is a very special guest to be announced plus mischievous charmer and 8 Out Of 10 Cats star Rosie Jones, Mock The Week’s whip-smart wordsmith Rhys James and globe-trotting laughter-master Stephen K Amos as host.
+secondary-text: Joining Adam is a very special guest to be announced plus mischievous
+  charmer and 8 Out Of 10 Cats star Rosie Jones, Mock The Week’s whip-smart wordsmith
+  Rhys James and globe-trotting laughter-master Stephen K Amos as host.
 festival-starts-at: 2019-06-22 18:00:00 Z
 show-starts-at: 2019-06-22 19:30:00 Z
 ticket-price: "£20 - £25"
