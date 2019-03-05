@@ -29,7 +29,6 @@ exclude:
 - bower_components
 - assets/scss
 plugins:
-- jekyll-paginate-v2
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
@@ -66,9 +65,5 @@ compress_html:
   - " -->"
   blanklines: true
   profile: false
-pagination:
-  enabled: false
-autopages:
-  enabled: false
 imgix:
   source: brighton-comedy-garden.imgix.net
