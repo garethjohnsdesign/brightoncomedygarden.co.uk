@@ -145,9 +145,11 @@ html.is-animating .swup-transition-color {
   @include links($white, $primary-color);
 }
 
+/*
 .home .white:hover {
   color: $primary-color;
 }
+*/
 
 // 5. Typography
 // -------------
@@ -326,6 +328,16 @@ background-color: transparent;
   width: 100%;
   height: 100%;
   z-index: 12;
+}
+
+.page__header {
+  @include padding(1, 1, 1, 1);
+  @include breakpoint(large) {
+  @include padding(2, 2, 2, 2);
+  }
+  @include breakpoint(xxlarge) {
+  @include padding(3, 3, 3, 3);
+  }
 }
 
 .vendor__description {
