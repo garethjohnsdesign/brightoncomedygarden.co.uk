@@ -84,7 +84,8 @@ vendors:
     facebook: https://www.facebook.com/routescoffee/
 - title: Ravenous Fudge
   image: "/uploads/ravenous-fudge.jpg"
-  description: If it’s fudge you’re after, boy have we got it… Homemade, handcrafted, exquisite fudge… A Wonka’s dream..
+  description: If it’s fudge you’re after, boy have we got it… Homemade, handcrafted,
+    exquisite fudge… A Wonka’s dream..
   website: https://ravenousfudge.com
   social:
     facebook: https://www.facebook.com/ravenousfudge/
