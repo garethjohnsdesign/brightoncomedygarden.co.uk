@@ -191,7 +191,7 @@ p a {
 }
 
 .image--default {
-  @include aspect-ratio (7, 5);
+  @include aspect-ratio (5, 4);
   background-size: cover; 
   background-position: 50%;
 }

@@ -9135,7 +9135,7 @@ p a {
     display: block;
     content: "";
     width: 100%;
-    padding-top: 71.4285714286%; }
+    padding-top: 80%; }
   .image--default .content {
     transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
     z-index: 1;

@@ -684,6 +684,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/routes-coffee.jpg": {
+		"ft": 16384,
+		"iS": 408875,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/routes-coffee.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/sara-pascoe.jpg": {
 		"ft": 16384,
 		"iS": 739347,
@@ -734,6 +745,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/suzi-ruffell.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/the-good-slice.jpg": {
+		"ft": 16384,
+		"iS": 1512315,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/the-good-slice.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -814,9 +836,9 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"hM": 0,
-		"oA": 0,
-		"oAP": "/about.html",
-		"oF": 0,
+		"oA": 2,
+		"oAP": "/about.md",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -7717,7 +7739,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "/bower_components/lightgallery/dist/js/lightgallery.js",
 		"oF": 0,
 		"sC": 1,
@@ -11535,6 +11557,12 @@
 			"followForSyntaxChecking": 0,
 			"linkedFileAbbreviatedPath": "/bower_components/jquery.cookie/jquery.cookie.js",
 			"position": 4,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "/bower_components/lightgallery/dist/js/lightgallery.js",
+			"position": 5,
 			"type": 0
 			}
 		]
