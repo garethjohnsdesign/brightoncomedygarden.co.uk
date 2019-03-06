@@ -58,7 +58,14 @@ vendors:
     twitter: https://twitter.com/youbaomi
 - title: The Good Slice
   image: "/uploads/the-good-slice.jpg"
-  description: "The Good Slice is a social enterprise with a simple idea: take a slice, give a slice. They combine a passion for fine, honest food with a desire to create a lasting difference in food insecure communities around the world, from Malawi to London. Via a one for one model, for every pizza they sell, they provide a meal to someone in need. In 2018 they provided 5,000 meals to the children of Well Wishes Nursery, in Northern Malawi. Closer to home, they have partnered with Glassdoor - London's largest open-access support services network for men and women affected by homelessness."
+  description: 'The Good Slice is a social enterprise with a simple idea: take a slice,
+    give a slice. They combine a passion for fine, honest food with a desire to create
+    a lasting difference in food insecure communities around the world, from Malawi
+    to London. Via a one for one model, for every pizza they sell, they provide a
+    meal to someone in need. In 2018 they provided 5,000 meals to the children of
+    Well Wishes Nursery, in Northern Malawi. Closer to home, they have partnered with
+    Glassdoor - London''s largest open-access support services network for men and
+    women affected by homelessness.'
   website: https://www.thegood-slice.com
   social:
     facebook: https://www.facebook.com/thegoodslice1/
@@ -66,7 +73,11 @@ vendors:
     twitter: https://twitter.com/thegood_slice
 - title: Routes Coffee
   image: "/uploads/routes-coffee.jpg"
-  description: Routes Coffee combine a deep, deep love of coffee with a passion for travel and discovery, which has led to the establishment one of London's finest mobile coffee bars! Having driven across the world in their beautiful 1989 Bedford Rascal, these guys have learnt the tricks of the trade from coffee bean farmers, distributors, roasters and baristas across the whole planet!
+  description: Routes Coffee combine a deep, deep love of coffee with a passion for
+    travel and discovery, which has led to the establishment one of London's finest
+    mobile coffee bars! Having driven across the world in their beautiful 1989 Bedford
+    Rascal, these guys have learnt the tricks of the trade from coffee bean farmers,
+    distributors, roasters and baristas across the whole planet!
   social:
     instagram: https://www.instagram.com/youbaomi/
     twitter: https://twitter.com/youbaomi
