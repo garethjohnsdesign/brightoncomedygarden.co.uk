@@ -59,8 +59,8 @@ vendors:
   website: https://www.thegood-slice.com
   social:
     facebook: https://www.facebook.com/thegoodslice1/
-    instagram: https://www.instagram.com/youbaomi/
-    twitter: https://twitter.com/youbaomi
+    instagram: https://www.instagram.com/thegoodslice/
+    twitter: https://twitter.com/thegood_slice
 - title: Routes Coffee
   image: "/uploads/routes-coffee.jpg"
   description: Routes Coffee combine a deep, deep love of coffee with a passion for travel and discovery, which has led to the establishment one of London's finest mobile coffee bars! Having driven across the world in their beautiful 1989 Bedford Rascal, these guys have learnt the tricks of the trade from coffee bean farmers, distributors, roasters and baristas across the whole planet!
