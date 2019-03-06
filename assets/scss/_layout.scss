@@ -196,6 +196,12 @@ p a {
   background-position: 50%;
 }
 
+.image--landscape {
+  @include aspect-ratio (7, 5);
+  background-size: cover; 
+  background-position: 50%;
+}
+
 .image--panorama {
   @include aspect-ratio (16, 9);
   background-size: cover; 

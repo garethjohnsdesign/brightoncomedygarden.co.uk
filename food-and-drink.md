@@ -79,13 +79,14 @@ vendors:
     Rascal, these guys have learnt the tricks of the trade from coffee bean farmers,
     distributors, roasters and baristas across the whole planet!
   social:
-    instagram: https://www.instagram.com/youbaomi/
-    twitter: https://twitter.com/youbaomi
+    instagram: https://www.instagram.com/routescoffee/
+    twitter: https://twitter.com/routescoffee
+    facebook: https://www.facebook.com/routescoffee/
 layout: food-and-drink
 ---
 
-Choose from Ghanaian goodness in [Zoe’s Ghana Kitchen](https://www.zoesghanakitchen.co.uk), gourmet hot dogs with super-foods sides from [Kurbside Kitchen](http://kurbsidekitchen.co.uk), greek grills on the go with [3 Little Pigs](https://www.the3littlepigsldn.com), deliciously light steamed bao buns from [You Boa](https://www.instagram.com/youbaomi/) and The Good Slice bring their admirable ‘Take a Slice, Give a Slice’ ethos (plus delicious pizza!) to the first ever Brighton Comedy Garden.
+Choose from Ghanaian goodness in [Zoe’s Ghana Kitchen](https://www.zoesghanakitchen.co.uk), gourmet hot dogs with super-foods sides from [Kurbside Kitchen](http://kurbsidekitchen.co.uk), greek grills on the go with [3 Little Pigs](https://www.the3littlepigsldn.com), deliciously light steamed bao buns from [You Boa](https://www.instagram.com/youbaomi/) and [The Good Slice](https://www.thegood-slice.com) bring their admirable ‘Take a Slice, Give a Slice’ ethos (plus delicious pizza!) to the first ever Brighton Comedy Garden.
 
-Plus all our bars will be serving up the usual tipples including craft beers, and summer-inspired cocktails plus some top-notch traders like Routes Coffee serving up fresh brews and dont miss the absolutely epic sweet treats of Ravenous Fudge.
+Plus all our bars will be serving up the usual tipples including craft beers, and summer-inspired cocktails plus some top-notch traders like [Routes Coffee](https://www.routescoffee.co.uk) serving up fresh brews and don't miss the absolutely epic sweet treats of Ravenous Fudge.
 
 All of our traders offer a vegetarian option with vegan options available too. Our bars accept card payments as do most of our traders, as well as of course, cash!
