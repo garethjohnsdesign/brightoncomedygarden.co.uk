@@ -1,7 +1,10 @@
 ---
 title: Food and Drink
 position: 1
-header: The Garden will be bursting with a great range of street-food stalls and bars ready to give you a full-on festival experience alongside the great comedy. Make sure you arrive hungry for food as well as great comedy and enjoy tasty morsels from one of our hand-plucked street-foodies...
+header: The Garden will be bursting with a great range of street-food stalls and bars
+  ready to give you a full-on festival experience alongside the great comedy. Make
+  sure you arrive hungry for food as well as great comedy and enjoy tasty morsels
+  from one of our hand-plucked street-foodies...
 vendors:
 - title: Zoe's Ghana Kitchen
   image: "/uploads/zoes-ghana-kitchen.jpg"
