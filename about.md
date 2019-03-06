@@ -1,7 +1,9 @@
 ---
 title: About
 position: 4
-header: The first ever Brighton Comedy Garden plants its roots this June with five nights of sensational stand-up in the Big Top paired with street-food, craft beers and more in the glorious Preston Park
+header: The first ever Brighton Comedy Garden plants its roots this June with five
+  nights of sensational stand-up in the Big Top paired with street-food, craft beers
+  and more in the glorious Preston Park
 images:
 - "/uploads/gallery-01.jpg"
 - "/uploads/gallery-02.jpg"
