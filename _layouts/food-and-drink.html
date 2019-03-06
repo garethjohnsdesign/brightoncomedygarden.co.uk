@@ -2,6 +2,18 @@
 layout: default
 ---
 
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y">
+    <div class="small-12 large-6 cell">
+      <h3>{{page.header}}</h3>
+    </div>
+    <div class="small-12 large-6 cell">
+      {{content | markdownify}}
+    </div>
+  </div>
+</div>
+
+<div class="grid-container">
 <div class="grid-x align-center">
 
 {% for vendor in page.vendors %}
@@ -11,4 +23,5 @@ layout: default
   </div>
 {% endfor %}
 
+</div>
 </div>
