@@ -1,10 +1,7 @@
 ---
 title: Food and Drink
 position: 1
-header: The Garden will be bursting with a great range of street-food stalls and bars
-  ready to give you a full-on festival experience alongside the great comedy. Make
-  sure you arrive hungry for food as well as great comedy and enjoy tasty morsels
-  from one of our hand-plucked street-foodies...
+header: The Garden will be bursting with a great range of street-food stalls and bars ready to give you a full-on festival experience alongside the great comedy. Make sure you arrive hungry for food as well as great comedy and enjoy tasty morsels from one of our hand-plucked street-foodies...
 vendors:
 - title: Zoe's Ghana Kitchen
   image: "/uploads/zoes-ghana-kitchen.jpg"
@@ -56,10 +53,24 @@ vendors:
   social:
     instagram: https://www.instagram.com/youbaomi/
     twitter: https://twitter.com/youbaomi
+- title: The Good Slice
+  image: "/uploads/the-good-slice.jpg"
+  description: "The Good Slice is a social enterprise with a simple idea: take a slice, give a slice. They combine a passion for fine, honest food with a desire to create a lasting difference in food insecure communities around the world, from Malawi to London. Via a one for one model, for every pizza they sell, they provide a meal to someone in need. In 2018 they provided 5,000 meals to the children of Well Wishes Nursery, in Northern Malawi. Closer to home, they have partnered with Glassdoor - London's largest open-access support services network for men and women affected by homelessness."
+  website: https://www.thegood-slice.com
+  social:
+    facebook: https://www.facebook.com/thegoodslice1/
+    instagram: https://www.instagram.com/youbaomi/
+    twitter: https://twitter.com/youbaomi
+- title: Routes Coffee
+  image: "/uploads/routes-coffee.jpg"
+  description: Routes Coffee combine a deep, deep love of coffee with a passion for travel and discovery, which has led to the establishment one of London's finest mobile coffee bars! Having driven across the world in their beautiful 1989 Bedford Rascal, these guys have learnt the tricks of the trade from coffee bean farmers, distributors, roasters and baristas across the whole planet!
+  social:
+    instagram: https://www.instagram.com/youbaomi/
+    twitter: https://twitter.com/youbaomi
 layout: food-and-drink
 ---
 
-Choose from Ghanaian goodness in Zoe’s Ghana Kitchen, gourmet hot dogs with super-foods sides from Kurbside Kitchen, greek grills on the go with 3 Little Pigs, deliciously light steamed bao buns from You Boa and The Good Slice bring their admirable ‘Take a Slice, Give a Slice’ ethos (plus delicious pizza!) to the first ever Brighton Comedy Garden.
+Choose from Ghanaian goodness in [Zoe’s Ghana Kitchen](https://www.zoesghanakitchen.co.uk), gourmet hot dogs with super-foods sides from [Kurbside Kitchen](http://kurbsidekitchen.co.uk), greek grills on the go with [3 Little Pigs](https://www.the3littlepigsldn.com), deliciously light steamed bao buns from [You Boa](https://www.instagram.com/youbaomi/) and The Good Slice bring their admirable ‘Take a Slice, Give a Slice’ ethos (plus delicious pizza!) to the first ever Brighton Comedy Garden.
 
 Plus all our bars will be serving up the usual tipples including craft beers, and summer-inspired cocktails plus some top-notch traders like Routes Coffee serving up fresh brews and dont miss the absolutely epic sweet treats of Ravenous Fudge.
 
