@@ -7,6 +7,8 @@ acts:
   image: "/uploads/alan-davies.jpg"
 - name: Ed Byrne
   image: "/uploads/ed-byrne.jpg"
+- name: Lolly Adefope
+  image: "/uploads/lolly-adefope.jpg"
 - name: Suzi Ruffell
   image: "/uploads/suzi-ruffell.jpg"
 - name: Kiri Pritchard-Mclean
@@ -14,9 +16,7 @@ acts:
 quote: One of the best stand-up comics out there... packed with deft silliness and
   shrewd observation
 quote-cite: The Guardian
-secondary-text: Joining Alan is an astounding line-up featuring observational comedy
-  master and Mock The Week regular Ed Byrne, flawless stand-up machine Suzi Ruffell
-  and Have I Got News For You star Kiri Pritchard-Mclean as host.
+secondary-text: Joining Alan is an astounding line-up featuring observational comedy maestro and Mock The Week regular Ed Byrne, Taskmaster star and master character comic Lolly Adefope, flawless stand-up machine Suzi Ruffell and Have I Got News For You star Kiri Pritchard-Mclean as host.
 festival-starts-at: 2019-06-19 18:00:00 Z
 show-starts-at: 2019-06-19 19:30:00 Z
 ticket-price: "£20 - £25"
