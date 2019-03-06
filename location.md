@@ -1,7 +1,8 @@
 ---
 title: Location
 position: 3
-header: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+header: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+  incididunt ut labore et dolore magna
 details:
 - title: Car
   text: There are parking areas at the north and south of the park, accessible from

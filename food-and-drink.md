@@ -1,7 +1,10 @@
 ---
 title: Food and Drink
 position: 1
-header: The Garden will be bursting with a great range of street-food stalls and bars ready to give you a full-on festival experience alongside the great comedy. Make sure you arrive hungry for food as well as great comedy and enjoy tasty morsels from one of our hand-plucked street-foodies...
+header: The Garden will be bursting with a great range of street-food stalls and bars
+  ready to give you a full-on festival experience alongside the great comedy. Make
+  sure you arrive hungry for food as well as great comedy and enjoy tasty morsels
+  from one of our hand-plucked street-foodies...
 vendors:
 - title: Zoe's Ghana Kitchen
   image: "/uploads/zoes-ghana-kitchen.jpg"
@@ -70,7 +73,7 @@ vendors:
 layout: food-and-drink
 ---
 
-Choose from Ghanaian goodness in [Zoe’s Ghana Kitchen](https://www.zoesghanakitchen.co.uk), gourmet hot dogs with super-foods sides from [Kurbside Kitchen](http://kurbsidekitchen.co.uk), greek grills on the go with [3 Little Pigs](https://www.the3littlepigsldn.com), deliciously light steamed bao buns from [You Boa](https://www.instagram.com/youbaomi/) and The Good Slice bring their admirable ‘Take a Slice, Give a Slice’ ethos (plus delicious pizza!) to the first ever Brighton Comedy Garden.
+Choose from Ghanaian goodness in Zoe’s Ghana Kitchen, gourmet hot dogs with super-foods sides from Kurbside Kitchen, greek grills on the go with 3 Little Pigs, deliciously light steamed bao buns from You Boa and The Good Slice bring their admirable ‘Take a Slice, Give a Slice’ ethos (plus delicious pizza!) to the first ever Brighton Comedy Garden.
 
 Plus all our bars will be serving up the usual tipples including craft beers, and summer-inspired cocktails plus some top-notch traders like Routes Coffee serving up fresh brews and dont miss the absolutely epic sweet treats of Ravenous Fudge.
 
