@@ -33,8 +33,8 @@ general:
 
     * **Cash or card?** We accept card and cash payments at the Box Office and across our bars, most of our food vendors will also accept card payments as well, of course, as cash!
 - title: Festival Timings
-  text: "Weds 19 June: 6pm-10:30pm   \nThurs 20 June: 6pm-10:30pm  \nFri 21 September:
-    6pm-10:30pm  \nSat 22 September: 2:45pm-10:30pm\nSun 23 September: 6pm-10.30pm
+  text: "Weds 19 June: 6pm - 10:30pm   \nThurs 20 June: 6pm - 10:30pm  \nFri 21 September:
+    6pm - 10:30pm  \nSat 22 September: 2:45pm - 10:30pm\nSun 23 September: 6pm - 10.30pm
     \ \n\nPlease check your tickets for your show start times, all shows last approximately
     2.5 hours with intervals."
 - title: The Big Top Venue
