@@ -231,6 +231,7 @@ p a {
   left: auto;
 }
 
+/*
 .swiper-button-prev-test {
 cursor: url('/assets/img/arrow-left.png') 16 16, auto !important;
 cursor: -webkit-image-set(
@@ -248,6 +249,7 @@ url('/assets/img/arrow-right@2x.png') 2x,
 url('/assets/img/arrow-right@3x.png') 3x
 ) 16 16, auto !important;
 }
+*/
 
 .swiper-slide .white:hover {
   color: $primary-color;
@@ -366,4 +368,67 @@ background-color: transparent;
 
 .tabs-title > a:hover {
 color: $secondary-color;
+}
+
+// 9. Illustrations
+// ----------------
+
+.home__content {
+  background: url(/assets/img/illustrations/plants-01.png), url(/assets/img/illustrations/hotdog.png);
+  background-repeat:no-repeat;
+  background-position:left bottom, right bottom;
+  @include breakpoint(small) {
+  background-size: 50%, 50%;
+  }
+  @include breakpoint(medium) {
+  background-size: 30%, 30%;
+  }
+}
+
+.about__content {
+  background: url(/assets/img/illustrations/plants-01.png), url(/assets/img/illustrations/hotdog.png);
+  background-repeat:no-repeat;
+  background-position:left bottom, right bottom;
+  @include breakpoint(small) {
+  background-size: 50%, 50%;
+  }
+  @include breakpoint(medium) {
+  background-size: 30%, 30%;
+  }
+}
+
+.location__content {
+  background: url(/assets/img/illustrations/plants-01.png), url(/assets/img/illustrations/diver.png);
+  background-repeat:no-repeat;
+  background-position:left bottom, right top;
+  @include breakpoint(small) {
+  background-size: 0%, 0%;
+  }
+  @include breakpoint(medium) {
+  background-size: 40%, 40%;
+  }
+}
+
+.food-and-drink__content {
+  background: url(/assets/img/illustrations/plants-01.png), url(/assets/img/illustrations/plants-03.png);
+  background-repeat:no-repeat;
+  background-position:left bottom, right bottom;
+  @include breakpoint(small) {
+  background-size: 50%, 30%;
+  }
+  @include breakpoint(medium) {
+  background-size: 40%, 30%;
+  }
+}
+
+.info__content {
+  background: url(/assets/img/illustrations/eel.png), url(/assets/img/illustrations/plants-03.png);
+  background-repeat:no-repeat;
+  background-position:left bottom, right bottom;
+  @include breakpoint(small) {
+  background-size: 50%, 30%;
+  }
+  @include breakpoint(medium) {
+  background-size: 40%, 30%;
+  }
 }

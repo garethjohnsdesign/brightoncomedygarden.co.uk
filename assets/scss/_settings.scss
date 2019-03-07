@@ -67,8 +67,7 @@
 
 // $global-font-size: 100%;
 $global-font-size: 18px;
-// $global-width: rem-calc(1200);
-$global-width: rem-calc(1440);
+$global-width: rem-calc(1200);
 $global-lineheight: 1.5;
 /*
 $foundation-palette: (
@@ -506,7 +505,7 @@ $input-font-size: rem-calc(16);
 $input-font-weight: $global-weight-normal;
 $input-line-height: $global-lineheight;
 // $input-background: $white;
-$input-background: transparent;
+$input-background: get-color(spring-wood);
 $input-background-focus: $white;
 $input-background-disabled: $light-gray;
 // $input-border: 1px solid $medium-gray;

@@ -1411,7 +1411,7 @@ textarea {
   display: none !important; }
 
 .row {
-  max-width: 80rem;
+  max-width: 66.6666666667rem;
   margin-right: auto;
   margin-left: auto;
   display: flex;
@@ -2111,7 +2111,7 @@ textarea {
 .grid-container {
   padding-right: 0.8888888889rem;
   padding-left: 0.8888888889rem;
-  max-width: 80rem;
+  max-width: 66.6666666667rem;
   margin-left: auto;
   margin-right: auto; }
   @media print, screen and (min-width: 40em) {
@@ -4750,7 +4750,7 @@ a {
 
 hr {
   clear: both;
-  max-width: 80rem;
+  max-width: 66.6666666667rem;
   height: 0;
   margin: 1.1111111111rem auto;
   border-top: 0;
@@ -5295,7 +5295,7 @@ textarea {
   padding: 0.4444444444rem;
   border: 1px solid #FF8300;
   border-radius: 3px;
-  background-color: transparent;
+  background-color: #F9F7F2;
   box-shadow: 0;
   font-family: inherit;
   font-size: 0.8888888889rem;
@@ -6827,21 +6827,21 @@ html.is-reveal-open {
   @media print, screen and (min-width: 40em) {
     .reveal {
       width: 600px;
-      max-width: 80rem; } }
+      max-width: 66.6666666667rem; } }
   .reveal.collapse {
     padding: 0; }
   @media print, screen and (min-width: 40em) {
     .reveal.tiny {
       width: 30%;
-      max-width: 80rem; } }
+      max-width: 66.6666666667rem; } }
   @media print, screen and (min-width: 40em) {
     .reveal.small {
       width: 50%;
-      max-width: 80rem; } }
+      max-width: 66.6666666667rem; } }
   @media print, screen and (min-width: 40em) {
     .reveal.large {
       width: 90%;
-      max-width: 80rem; } }
+      max-width: 66.6666666667rem; } }
   .reveal.full {
     top: 0;
     right: 0;
@@ -9231,14 +9231,25 @@ p a {
   right: 0rem;
   left: auto; }
 
+/*
 .swiper-button-prev-test {
-  cursor: url("/assets/img/arrow-left.png") 16 16, auto !important;
-  cursor: -webkit-image-set(url("/assets/img/arrow-left.png") 1x, url("/assets/img/arrow-left@2x.png") 2x, url("/assets/img/arrow-left@3x.png") 3x) 16 16, auto !important; }
+cursor: url('/assets/img/arrow-left.png') 16 16, auto !important;
+cursor: -webkit-image-set(
+url('/assets/img/arrow-left.png') 1x,
+url('/assets/img/arrow-left@2x.png') 2x,
+url('/assets/img/arrow-left@3x.png') 3x
+) 16 16, auto !important;
+}
 
 .swiper-button-next-test {
-  cursor: url("/assets/img/arrow-right.png") 16 16, auto !important;
-  cursor: -webkit-image-set(url("/assets/img/arrow-right.png") 1x, url("/assets/img/arrow-right@2x.png") 2x, url("/assets/img/arrow-right@3x.png") 3x) 16 16, auto !important; }
-
+cursor: url('/assets/img/arrow-right.png') 16 16, auto !important;
+cursor: -webkit-image-set(
+url('/assets/img/arrow-right.png') 1x,
+url('/assets/img/arrow-right@2x.png') 2x,
+url('/assets/img/arrow-right@3x.png') 3x
+) 16 16, auto !important;
+}
+*/
 .swiper-slide .white:hover {
   color: #FF8300; }
 
@@ -9371,3 +9382,48 @@ background-color: transparent;
 
 .tabs-title > a:hover {
   color: #041f4a; }
+
+.home__content {
+  background: url(/assets/img/illustrations/plants-01.png), url(/assets/img/illustrations/hotdog.png);
+  background-repeat: no-repeat;
+  background-position: left bottom, right bottom;
+  background-size: 50%, 50%; }
+  @media print, screen and (min-width: 40em) {
+    .home__content {
+      background-size: 30%, 30%; } }
+
+.about__content {
+  background: url(/assets/img/illustrations/plants-01.png), url(/assets/img/illustrations/hotdog.png);
+  background-repeat: no-repeat;
+  background-position: left bottom, right bottom;
+  background-size: 50%, 50%; }
+  @media print, screen and (min-width: 40em) {
+    .about__content {
+      background-size: 30%, 30%; } }
+
+.location__content {
+  background: url(/assets/img/illustrations/plants-01.png), url(/assets/img/illustrations/diver.png);
+  background-repeat: no-repeat;
+  background-position: left bottom, right top;
+  background-size: 0%, 0%; }
+  @media print, screen and (min-width: 40em) {
+    .location__content {
+      background-size: 40%, 40%; } }
+
+.food-and-drink__content {
+  background: url(/assets/img/illustrations/plants-01.png), url(/assets/img/illustrations/plants-03.png);
+  background-repeat: no-repeat;
+  background-position: left bottom, right bottom;
+  background-size: 50%, 30%; }
+  @media print, screen and (min-width: 40em) {
+    .food-and-drink__content {
+      background-size: 40%, 30%; } }
+
+.info__content {
+  background: url(/assets/img/illustrations/eel.png), url(/assets/img/illustrations/plants-03.png);
+  background-repeat: no-repeat;
+  background-position: left bottom, right bottom;
+  background-size: 50%, 30%; }
+  @media print, screen and (min-width: 40em) {
+    .info__content {
+      background-size: 40%, 30%; } }

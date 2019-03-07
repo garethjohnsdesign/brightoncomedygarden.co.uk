@@ -129,14 +129,6 @@
 		"oAP": "/_includes/site/head.html",
 		"oF": 0
 		},
-	"/_includes/site/navigation-alt.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_includes/site/navigation-alt.html",
-		"oF": 0
-		},
 	"/_includes/site/navigation.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1126,86 +1118,77 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/assets/img/arrow-left.png": {
+	"/assets/img/illustrations/diver.png": {
 		"ft": 32768,
-		"iS": 178,
+		"iS": 173640,
 		"oA": 0,
-		"oAP": "/assets/img/arrow-left.png",
+		"oAP": "/assets/img/illustrations/diver.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/assets/img/arrow-left.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/assets/img/arrow-left.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/assets/img/arrow-left@2x.png": {
+	"/assets/img/illustrations/eel.png": {
 		"ft": 32768,
-		"iS": 297,
+		"iS": 231263,
 		"oA": 0,
-		"oAP": "/assets/img/arrow-left@2x.png",
+		"oAP": "/assets/img/illustrations/eel.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/assets/img/arrow-left@3x.png": {
+	"/assets/img/illustrations/hotdog.png": {
 		"ft": 32768,
-		"iS": 502,
+		"iS": 206337,
 		"oA": 0,
-		"oAP": "/assets/img/arrow-left@3x.png",
+		"oAP": "/assets/img/illustrations/hotdog.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/assets/img/arrow-right.png": {
+	"/assets/img/illustrations/plants-01.png": {
 		"ft": 32768,
-		"iS": 189,
+		"iS": 42119,
 		"oA": 0,
-		"oAP": "/assets/img/arrow-right.png",
+		"oAP": "/assets/img/illustrations/plants-01.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/assets/img/arrow-right.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/assets/img/arrow-right.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/assets/img/arrow-right@2x.png": {
+	"/assets/img/illustrations/plants-02.png": {
 		"ft": 32768,
-		"iS": 333,
+		"iS": 189233,
 		"oA": 0,
-		"oAP": "/assets/img/arrow-right@2x.png",
+		"oAP": "/assets/img/illustrations/plants-02.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/assets/img/arrow-right@3x.png": {
+	"/assets/img/illustrations/plants-03.png": {
 		"ft": 32768,
-		"iS": 517,
+		"iS": 52159,
 		"oA": 0,
-		"oAP": "/assets/img/arrow-right@3x.png",
+		"oAP": "/assets/img/illustrations/plants-03.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/illustrations/plants-04.png": {
+		"ft": 32768,
+		"iS": 69459,
+		"oA": 0,
+		"oAP": "/assets/img/illustrations/plants-04.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1221,17 +1204,6 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
-		},
-	"/assets/img/octopus-and-lobster.png": {
-		"ft": 32768,
-		"iS": 245732,
-		"oA": 0,
-		"oAP": "/assets/img/octopus-and-lobster.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
 		},
 	"/assets/img/og-image.png": {
 		"ft": 32768,
