@@ -1,7 +1,8 @@
 ---
 title: Location
 position: 3
-header: 
+header: Brighton Comedy Garden will be springing up in the glorious surroundings of
+  Preston Park overlooking the thumping heart of Brighton's city centre.
 details:
 - title: Car
   text: There are parking areas at the north and south of the park, accessible from
@@ -18,5 +19,5 @@ details:
 layout: location
 ---
 
-Brighton Comedy Garden will be springing up in the glorious surroundings of Preston Park overlooking the thumping heart of Brighton's city centre.
+
 
