@@ -249,6 +249,10 @@ url('/assets/img/arrow-right@3x.png') 3x
 ) 16 16, auto !important;
 }
 
+.swiper-slide .white:hover {
+  color: $primary-color;
+}
+
 .acts {
  .content:hover {
   background-color: rgba($secondary-color, 0.95);
