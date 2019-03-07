@@ -3,12 +3,10 @@ title: About
 position: 4
 header: The first ever Brighton Comedy Garden plants its roots this June with five nights of sensational stand-up from the likes of Qi star Alan Davies, 8 Out OF 10 Cats Sean Lock, German Comedy Ambassador Henning Wehn, multi award-winning Sara Pascoe, The Last Leg’s Adam Hills, lo-fi master David O’Doherty and many, many more.
 images:
-- "/uploads/gallery-01.jpg"
-- "/uploads/gallery-02.jpg"
-- "/uploads/gallery-03.jpg"
-- "/uploads/gallery-04.jpg"
-- "/uploads/gallery-05.jpg"
-- "/uploads/gallery-06.jpg"
+- "/uploads/about-01.jpg"
+- "/uploads/about-02.jpg"
+- "/uploads/about-03.jpg"
+- "/uploads/about-04.jpg"
 layout: about
 ---
 

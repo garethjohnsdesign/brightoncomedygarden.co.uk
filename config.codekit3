@@ -313,6 +313,14 @@
 		"oAP": "/_line-up/thursday.markdown",
 		"oF": 0
 		},
+	"/_line-up/wednesday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_line-up/wednesday.markdown",
+		"oF": 0
+		},
 	"/_site": {
 		"ft": 65536,
 		"oA": 1,
@@ -328,6 +336,50 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/_uploads/about-01.jpg": {
+		"ft": 16384,
+		"iS": 593084,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/about-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/about-02.jpg": {
+		"ft": 16384,
+		"iS": 975090,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/about-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/about-03.jpg": {
+		"ft": 16384,
+		"iS": 688434,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/about-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/about-04.jpg": {
+		"ft": 16384,
+		"iS": 1026853,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/about-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/adam-hills.jpg": {
