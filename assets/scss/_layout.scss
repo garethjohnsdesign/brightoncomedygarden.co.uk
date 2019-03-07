@@ -267,10 +267,10 @@ url('/assets/img/arrow-right@3x.png') 3x
   border-bottom: 1px solid $secondary-color;
 	z-index: 20;
   @include breakpoint(medium) {
-  @include padding(1.5, 1.5, 1, 1.5);
+  @include padding(1, 1.5, 1, 1.5);
   }
   @include breakpoint(xxlarge) {
-  @include padding(2, 2, 1, 2);
+  @include padding(1.5, 2, 1, 2);
   }
   @include links ($secondary-color, $primary-color)
   a {
@@ -345,7 +345,7 @@ background-color: transparent;
 }
 
 .page__header {
-  @include padding(1, 1, 1, 1);
+  @include padding(0.5, 1, 0.5, 1);
   @include breakpoint(large) {
   @include padding(2, 2, 2, 2);
   }

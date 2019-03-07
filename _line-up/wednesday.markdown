@@ -23,7 +23,7 @@ secondary-text: Joining Alan is an astounding line-up featuring observational co
 festival-starts-at: 2019-06-19 18:00:00 Z
 show-starts-at: 2019-06-19 19:30:00 Z
 ticket-price: "£20 - £25"
-ticket-link: https://www.seetickets.com
+ticket-link: https://brightoncomedygarden.seetickets.com/event/alan-davies/preston-park-brighton/1326681
 is-sold-out: false
 layout: event
 ---
