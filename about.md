@@ -13,9 +13,9 @@ images:
 layout: about
 ---
 
-Each night a star-studded bill will raise the roof off our giant Big Top seated venue set in the glorious Preston Park overlooking the beating heart of Brighton.
+Each night a star-studded bill will raise the roof off our giant Big Top seated venue set in the glorious [Preston Park](/location/) overlooking the beating heart of Brighton.
 
-Comedy-lovers from Brighton and beyond can choose from a series of meticulously curated shows starring comedy heavyweights like Tom Allen, Ed Byrne, Stephen K Amos and Rachel Parris, cult heroes including Bridget Christie and Tim Key and exciting breakthrough talent such as Rose Matafeo, Rosie Jones and Phil Wang.
+Comedy-lovers from Brighton and beyond can choose from a series of meticulously curated shows starring comedy heavyweights like [Tom Allen](/line-up/friday/), [Ed Byrne](/line-up/wednesday/), [Stephen K Amos](/line-up/saturday-late/) and [Rachel Parris](/line-up/friday/), cult heroes including [Bridget Christie](/line-up/saturday-early/) and [Tim Key](/line-up/sunday/) and exciting breakthrough talent such as [Rose Matafeo](/line-up/sunday/), [Rosie Jones](/line-up/saturday-late/) and [Phil Wang](/line-up/thursday/).
 
 Ticket-holders can expect a delicious selection of street-food traders, plus craft beers, summer-inspired cocktails and more at our bars and all the trimmings of a boutique festival alongside the astounding comedy.
 
