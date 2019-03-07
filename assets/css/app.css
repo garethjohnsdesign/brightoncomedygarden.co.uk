@@ -6758,6 +6758,30 @@ select {
     .orbit-bullets button.is-active {
       background-color: #757575; }
 
+.sticky-container {
+  position: relative; }
+
+.sticky {
+  position: relative;
+  z-index: 0;
+  transform: translate3d(0, 0, 0); }
+
+.sticky.is-stuck {
+  position: fixed;
+  z-index: 5;
+  width: 100%; }
+  .sticky.is-stuck.is-at-top {
+    top: 0; }
+  .sticky.is-stuck.is-at-bottom {
+    bottom: 0; }
+
+.sticky.is-anchored {
+  position: relative;
+  right: auto;
+  left: auto; }
+  .sticky.is-anchored.is-at-bottom {
+    bottom: 0; }
+
 html.is-reveal-open {
   position: fixed;
   width: 100%;
@@ -9227,7 +9251,7 @@ p a {
   padding-bottom: 0rem !important;
   padding-left: 0.45rem !important;
   border-bottom: 1px solid #041f4a;
-  z-index: 15; }
+  z-index: 20; }
   @media print, screen and (min-width: 40em) {
     .navigation {
       padding-top: 1.5rem !important;
@@ -9252,6 +9276,9 @@ p a {
   padding-right: 0.45rem !important;
   padding-bottom: 0.45rem !important;
   padding-left: 0.45rem !important; }
+
+.navigation__container {
+  z-index: 20; }
 
 .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
   background-color: #fefefe; }
