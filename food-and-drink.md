@@ -94,6 +94,6 @@ layout: food-and-drink
 
 Choose from Ghanaian goodness in [Zoe’s Ghana Kitchen](https://www.zoesghanakitchen.co.uk), gourmet hot dogs with super-foods sides from [Kurbside Kitchen](http://kurbsidekitchen.co.uk), greek grills on the go with [3 Little Pigs](https://www.the3littlepigsldn.com), deliciously light steamed bao buns from [You Boa](https://www.instagram.com/youbaomi/) and [The Good Slice](https://www.thegood-slice.com) bring their admirable ‘Take a Slice, Give a Slice’ ethos (plus delicious pizza!) to the first ever Brighton Comedy Garden.
 
-Plus all our bars will be serving up the usual tipples including craft beers, and summer-inspired cocktails plus some top-notch traders like [Routes Coffee](https://www.routescoffee.co.uk) serving up fresh brews and don't miss the absolutely epic sweet treats of [Ravenous Fudge](https://ravenousfudge.com).
+All our bars will be serving up the usual tipples including craft beers, and summer-inspired cocktails plus some top-notch traders like [Routes Coffee](https://www.routescoffee.co.uk) serving up fresh brews and don't miss the absolutely epic sweet treats of [Ravenous Fudge](https://ravenousfudge.com).
 
 All of our traders offer a vegetarian option with vegan options available too. Our bars accept card payments as do most of our traders, as well as of course, cash!
