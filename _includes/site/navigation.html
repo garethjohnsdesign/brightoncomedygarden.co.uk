@@ -8,12 +8,13 @@
 
 {% for entry in site.data.navigation.header-full %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
 
-
-<div class="grid-x align-justify align-middle navigation"> 
+ 
+  <div class="grid-x align-justify align-middle navigation"> 
 
     <div class="auto cell">    
       <ul class="menu align-middle">
-        <li><a href="/"><svg class="icon icon-inline-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-inline-logo"></use></svg></a></li>
+        <li class="show-for-large"><a href="/"><svg class="icon icon-inline-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-inline-logo"></use></svg></a></li>
+        <li class="hide-for-large"><a data-toggle="offCanvas"><svg class="icon icon-inline-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-inline-logo"></use></svg></a></li>
         <li class="hide-for-small-only"><a href="/">{{site.event-span}}</a></li>
       </ul>
     </div>
@@ -52,6 +53,6 @@
       <a data-toggle="offCanvas" style="z-index: 1001"><svg class="icon icon-sort"><use xlink:href="/assets/icons/symbol-defs.svg#icon-sort"></use></svg></a>
     </div>  
 
-</div>
+    </div>
 
 

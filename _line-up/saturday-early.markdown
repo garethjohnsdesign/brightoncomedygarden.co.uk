@@ -19,7 +19,7 @@ secondary-text: Joining Sara is a scintillating supporting line-up with Edinburg
 festival-starts-at: 2019-06-22 14:45:00 Z
 show-starts-at: 2019-06-22 15:45:00 Z
 ticket-price: "£20 - £25"
-ticket-link: https://www.seetickets.com/event/
+ticket-link: https://brightoncomedygarden.seetickets.com/event/sara-pascoe/preston-park-brighton/1326720
 is-sold-out: false
 layout: event
 ---

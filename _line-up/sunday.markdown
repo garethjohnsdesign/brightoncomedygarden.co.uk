@@ -22,7 +22,7 @@ secondary-text: Joining David is an blistering line-up with a very special guest
 festival-starts-at: 2019-06-23 18:00:00 Z
 show-starts-at: 2019-06-23 19:30:00 Z
 ticket-price: "£20 - £25"
-ticket-link: https://www.seetickets.com/event/
+ticket-link: https://brightoncomedygarden.seetickets.com/event/david-o-doherty/preston-park-brighton/1326724
 is-sold-out: 
 layout: event
 ---

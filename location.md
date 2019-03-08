@@ -1,21 +1,23 @@
 ---
 title: Location
 position: 3
+header: Brighton Comedy Garden springs up in the glorious surroundings of Preston
+  Park overlooking the thumping heart of Brighton's city centre
 details:
 - title: Car
-  text: Unfortunately there is no public parking available at the museum and limited
-    parking in Greenwich town centre. However there is blue badge parking area available
-    in the car park on the corner of Park Row and Romney Road.
+  text: There are parking areas at the north and south of the park, accessible from
+    Preston Drove or the junction between Preston Road and Preston Park Avenue.
 - title: Bus
-  text: The following buses all pass through Greenwich town centre 177, 180, 188,
-    199, 286, 386. For further information visit tfl.gov.uk
-- title: Train
-  text: The nearest train stations are Greenwich and Maze Hill. From Greenwich station
-    it is about a 10min walk through Greenwich town centre and about 8 mins walk from
-    Maze Hill. The nearest DLR station is Cutty Sark for Maritime Greenwich, a 5min
-    walk from the museum.
-- title: River
-  text: All boats arrive at Greenwich Pier which is just a 5min walk away.
+  text: The 5 and 5A buses run between Hangleton and Patcham and go straight past
+    the park every few minutes during the day. Further information and timetables
+    available from the [Brighton & Hove Bus company](http://www.buses.co.uk/).
+- title: Cycling
+  text: There are cycle lanes leading to the park from the city centre and various
+    places to secure your bicycle to around the park. [Download your city cycling
+    map here](http://www.brightonandhovecyclemap.com/). For more information on cycling
+    around the city check the [Journey On site](http://www.journeyon.co.uk/cycling.asp).
 layout: location
 ---
+
+
 

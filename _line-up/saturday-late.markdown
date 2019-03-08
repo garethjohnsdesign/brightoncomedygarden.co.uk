@@ -20,7 +20,7 @@ secondary-text: Joining Adam is a very special guest to be announced plus mischi
 festival-starts-at: 2019-06-22 18:00:00 Z
 show-starts-at: 2019-06-22 19:30:00 Z
 ticket-price: "£20 - £25"
-ticket-link: https://www.seetickets.com/event/
+ticket-link: https://brightoncomedygarden.seetickets.com/event/adam-hills/preston-park-brighton/1326721
 is-sold-out: 
 layout: event
 ---
