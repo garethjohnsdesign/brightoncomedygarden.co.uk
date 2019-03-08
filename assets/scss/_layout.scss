@@ -432,3 +432,27 @@ color: $secondary-color;
   background-size: 40%, 30%;
   }
 }
+
+.tickets__content {
+  background: url(/assets/img/illustrations/eel.png), url(/assets/img/illustrations/plants-03.png);
+  background-repeat:no-repeat;
+  background-position:left bottom, right bottom;
+  @include breakpoint(small) {
+  background-size: 50%, 30%;
+  }
+  @include breakpoint(medium) {
+  background-size: 40%, 30%;
+  }
+}
+
+.event__content {
+  background: url(/assets/img/illustrations/plants-01.png), url(/assets/img/illustrations/plants-03.png);
+  background-repeat:no-repeat;
+  background-position:left bottom, right bottom;
+  @include breakpoint(small) {
+  background-size: 50%, 30%;
+  }
+  @include breakpoint(medium) {
+  background-size: 40%, 30%;
+  }
+}
