@@ -9427,3 +9427,21 @@ background-color: transparent;
   @media print, screen and (min-width: 40em) {
     .info__content {
       background-size: 40%, 30%; } }
+
+.tickets__content {
+  background: url(/assets/img/illustrations/eel.png), url(/assets/img/illustrations/plants-03.png);
+  background-repeat: no-repeat;
+  background-position: left bottom, right bottom;
+  background-size: 50%, 30%; }
+  @media print, screen and (min-width: 40em) {
+    .tickets__content {
+      background-size: 40%, 30%; } }
+
+.event__content {
+  background: url(/assets/img/illustrations/plants-01.png), url(/assets/img/illustrations/plants-03.png);
+  background-repeat: no-repeat;
+  background-position: left bottom, right bottom;
+  background-size: 50%, 30%; }
+  @media print, screen and (min-width: 40em) {
+    .event__content {
+      background-size: 40%, 30%; } }
