@@ -7,7 +7,7 @@ acts:
 - name: David O’Doherty
   image: "/uploads/david-o-doherty-02.jpg"
 - name: Tim Key
-  image: "/uploads/tim-key.jpg"
+  image: "/uploads/tim-key-02.jpg"
 - name: Rose Matafeo
   image: "/uploads/rose-matafeo.jpg"
 - name: John Robins

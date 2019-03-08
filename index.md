@@ -40,7 +40,7 @@ featured:
   is-sold-out: false
   line-up: Sunday
 - name: Tim Key
-  image: "/uploads/tim-key.jpg"
+  image: "/uploads/tim-key-02.jpg"
   subheader: 
   is-sold-out: false
   line-up: Sunday
