@@ -10,8 +10,10 @@
   
   <link rel="stylesheet" type="text/css" href="{{ "/assets/css/app.css" | prepend: site.baseurl }}">
 
-  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.1/mapbox-gl.js'></script>
+  {% if page.layout == 'location' %}
+  <script async defer src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.1/mapbox-gl.js'></script>
   <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.1/mapbox-gl.css' rel='stylesheet' />
+  {% endif %}
   
   <!-- Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon.png">
