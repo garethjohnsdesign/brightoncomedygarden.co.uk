@@ -62,9 +62,9 @@ general:
 
     If you’re interested, please email [hannah@57festivals.com](mailto:hannah@57festivals.com) with your CV and a short covering letter.
 
-    [Equality and Diverstiy Monitoring Form.pages](/uploads/Equality%20and%20Diverstiy%20Monitoring%20Form.pages)
+    [BRCG19 FOH Assistant Job Application.pdf](/uploads/BRCG19%20FOH%20Assistant%20Job%20Application.pdf)
 
-    [BrCG 19 FoH Assistant Job Application -f4d7b8.pdf](/uploads/BrCG%2019%20FoH%20Assistant%20Job%20Application%20-f4d7b8.pdf)
+    [Equality and Diversity Monitoring Form.pages](/uploads/Equality%20and%20Diversity%20Monitoring%20Form.pages)
 - title: Work  With Us - Bar Staff
   text: |-
     We’re looking for friendly, confident and hard working people to come and work on our bars during the Comedy Garden. Previous bar experience is essential and you must be over 18. You’ll be part of the team and enjoy all the perks that go with that. In return you’ll be punctual, reliable and ready to hop to action at any given moment.
