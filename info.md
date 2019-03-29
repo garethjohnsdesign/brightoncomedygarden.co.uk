@@ -45,7 +45,7 @@ general:
     once inside the venue. '
 - title: Group Bookings
   text: "If you would like purchase 20 tickets or more please get in touch and we’ll
-    help you with the necessary arrangements. \nPlease contact [info@brightoncomedygarden.co.uk](mailto:info@brightoncomedygarden.co.uk) with
+    help you with the necessary arrangements. \n\nPlease contact [info@brightoncomedygarden.co.uk](mailto:info@brightoncomedygarden.co.uk) with
     GROUP BOOKING in the subject line and we’ll be in touch soon.\n"
 - title: Accessibility
   text: |-
