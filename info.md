@@ -44,9 +44,9 @@ general:
     which means Front of House staff will guide you to the most appropriate seats
     once inside the venue. '
 - title: Group Bookings
-  text: |
-    If you would like purchase 20 tickets or more please get in touch and we’ll help you with the necessary arrangements. We can offer you and your guests a dedicated seating area within the festival site as well as in the Big Top plus pre-ordered food and drinks from our bars and food vendors.
-    Please contact [info@brightoncomedygarden.co.uk](mailto:info@brightoncomedygarden.co.uk) with GROUP BOOKING in the subject line and we’ll be in touch soon.
+  text: "If you would like purchase 20 tickets or more please get in touch and we’ll
+    help you with the necessary arrangements. \nPlease contact [info@brightoncomedygarden.co.uk](mailto:info@brightoncomedygarden.co.uk) with
+    GROUP BOOKING in the subject line and we’ll be in touch soon.\n"
 - title: Accessibility
   text: |-
     The festival site and Big Top venue are accessible and our access tickets are sold with a free essential companion ticket through our online ticketing partner SEE Tickets. 
