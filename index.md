@@ -59,11 +59,11 @@ featured:
   subheader: 
   is-sold-out: 
   line-up: Saturday Early
-- name: Stephen K Amos
-  image: "/uploads/stephen-k-amos-01.jpg"
+- name: Nish Kumar
+  image: "/uploads/nish-kumar.jpg"
   subheader: 
-  is-sold-out: true
-  line-up: Saturday Late
+  is-sold-out: false
+  line-up: Sunday
 layout: home
 ---
 
