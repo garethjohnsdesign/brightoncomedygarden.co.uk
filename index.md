@@ -17,7 +17,7 @@ carousel:
   image: "/uploads/alan-davies.jpg"
   subheader: One of the best stand-up comics out there — The Guardian
   is-sold-out: false
-  line-up: Sunday
+  line-up: Wednesday
 - name: Adam Hills
   image: "/uploads/adam-hills.jpg"
   subheader: Hills delivers stand-up so effortlessly brilliant — The Guardian
@@ -29,11 +29,11 @@ featured:
   subheader: 
   is-sold-out: false
   line-up: Friday
-- name: Phil Wang
-  image: "/uploads/phil-wang.jpg"
+- name: Nish Kumar
+  image: "/uploads/nish-kumar.jpg"
   subheader: 
   is-sold-out: false
-  line-up: Thursday
+  line-up: Sunday
 - name: Rose Matafeo
   image: "/uploads/rose-matafeo.jpg"
   subheader: 
@@ -59,11 +59,11 @@ featured:
   subheader: 
   is-sold-out: 
   line-up: Saturday Early
-- name: Stephen K Amos
-  image: "/uploads/stephen-k-amos-01.jpg"
+- name: Phil Wang
+  image: "/uploads/phil-wang.jpg"
   subheader: 
-  is-sold-out: true
-  line-up: Saturday Late
+  is-sold-out: false
+  line-up: Thursday
 layout: home
 ---
 
