@@ -29,11 +29,11 @@ featured:
   subheader: 
   is-sold-out: false
   line-up: Friday
-- name: Phil Wang
-  image: "/uploads/phil-wang.jpg"
+- name: Nish Kumar
+  image: "/uploads/nish-kumar.jpg"
   subheader: 
   is-sold-out: false
-  line-up: Thursday
+  line-up: Sunday
 - name: Rose Matafeo
   image: "/uploads/rose-matafeo.jpg"
   subheader: 
@@ -59,11 +59,11 @@ featured:
   subheader: 
   is-sold-out: 
   line-up: Saturday Early
-- name: Nish Kumar
-  image: "/uploads/nish-kumar.jpg"
+- name: Phil Wang
+  image: "/uploads/phil-wang.jpg"
   subheader: 
   is-sold-out: false
-  line-up: Sunday
+  line-up: Thursday
 layout: home
 ---
 
