@@ -5,7 +5,7 @@ general:
 - title: FAQs
   text: |-
     * **Do I need to print my tickets?**
-      Everybody needs a printed ticket to gain entry to the festival. If you don't have a printer, don't worry, our on-site Box Office can print your tickets for you - head straight there when you arrive.
+      You will need a physical or electronic copy of your ticket for scanning at the entrance to the festival.
 
     * **I haven't received an email with my tickets on them, what should I do?**
       First, check your spam! If you have no luck there contact your ticket provider [directly](https://www.seetickets.com/CustomerService) (SEE Tickets are our primary provider). Have ready all of your booking information and they will be able to send you through your tickets.
