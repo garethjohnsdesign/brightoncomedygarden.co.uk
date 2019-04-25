@@ -54,8 +54,8 @@ featured:
   subheader: 
   is-sold-out: true
   line-up: Wednesday
-- name: Bridget Christie
-  image: "/uploads/bridget-christie.jpg"
+- name: Nina Conti
+  image: "/uploads/Nina%20Conti.jpg"
   subheader: 
   is-sold-out: 
   line-up: Saturday Early
