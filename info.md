@@ -72,6 +72,13 @@ general:
     This is a paid role. You’ll be expected to work all of the shifts during the Comedy Garden.
 
     If you’re interested please send your name, contact details and CV to [sparkleandspirit@outlook.com](mailto:sparkleandspirit@outlook.com) with BRCG BAR CREW in the subject line.
+- title: Charity Partner - Carousel
+  text: "We’re proud to be teaming up with Brighton’s very own Carousel, a fantastic
+    charitable organisation that helps learning disabled artists develop and manage
+    their creative lives, true to their voice and vision, challenging expectations
+    of what great art is and who can create it.\n\nCarousel volunteers will be joining
+    us down on Preston Park to raise awareness (and some pennies!) for their tremendous
+    work.\n\nwww.carousel.org.uk      "
 layout: info
 ---
 
