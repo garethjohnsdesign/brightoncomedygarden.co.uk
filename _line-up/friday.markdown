@@ -21,7 +21,7 @@ festival-starts-at: 2019-06-21 18:00:00 Z
 show-starts-at: 2019-06-21 19:30:00 Z
 ticket-price: "£20 - £25"
 ticket-link: https://brightoncomedygarden.seetickets.com/event/henning-wehn/preston-park-brighton/1326719
-is-sold-out: true
+is-sold-out: false
 layout: event
 ---
 

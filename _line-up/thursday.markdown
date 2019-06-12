@@ -20,7 +20,7 @@ festival-starts-at: 2019-06-20 18:00:00 Z
 show-starts-at: 2019-06-20 19:30:00 Z
 ticket-price: "£20 - £25"
 ticket-link: https://brightoncomedygarden.seetickets.com/event/sean-lock/preston-park-brighton/1326716
-is-sold-out: true
+is-sold-out: false
 layout: event
 ---
 
